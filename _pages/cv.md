@@ -17,13 +17,16 @@ Education
 
 Work experience
 ======
-* Spring 2022 - Current: Research Assistant at Information Processing Lab, University of Washington
+* Apr 2022 - Current: Research Assistant, Information Processing Lab - University of Washington
   * Advised by Prof. Jenq-Neng Hwang
   * Research interests: Multi Object Tracking, Action Recognition, Object Re-identification
-* Winter 2023: Computer Vision Engineer Intern at Chimei Motor Electronics
+* Feb 2023 - Apr 2023: Computer Vision Engineer Intern, Chimei Motor Electronics
   * Work on real-time blind spot monitoring and detection system for oversized vehicles.
   * Improve LDWS (Lane Departure Warning System) under poor visibility condition with auto encoder.
-
+* Jan 2022 - Jun 2022: Capstone Project Member, Wyze
+  * Develop an end to end system that can detect and classify over 120 kinds of dog breeds.
+  * Built a dog classifier website with over 90 percent accuracy on the Stanford Dogs Dataset.
+  * Developed a dog tracker that can detect, classify and track dogs using Wyze Camera.
 
 <!-- * Fall 2015: Research Assistant
   * Github University
