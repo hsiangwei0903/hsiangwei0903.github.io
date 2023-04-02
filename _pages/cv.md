@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Photonics, National Chiao Tung University, 2021
+* M.S. in Electrical and Computer Engineering, University of Washington, 2023
+* Ph.D in Electrical and Computer Engineering, University of Washington, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2023: Computer Vision Engineer Intern
+  * Chimei Motor Electronics
+  * Work on real-time blind spot monitoring and detection system for oversized vehicles.
+  * Improve LDWS (Lane Departure Warning System) under poor visibility condition with auto encoder.
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -42,7 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,8 +52,9 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Award
 ======
-* Currently signed in to 43 different slack teams
+* 1st Place of 2023 CVPR AI City Challenge Multi-Camera People Tracking
+* 3rd Place of 2022 ECCV SportsMOT Multi-actor Tracking
