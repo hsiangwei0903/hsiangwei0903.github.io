@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Washington, 2028 (expected)
+* Ph.D in Electrical and Computer Engineering, University of Washington, 2027 (expected)
 * M.S. in Electrical and Computer Engineering, University of Washington, 2023
 * B.S. in Photonics, National Chiao Tung University, 2021
 
