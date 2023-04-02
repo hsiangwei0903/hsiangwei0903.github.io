@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Photonics, National Chiao Tung University, 2021
-* M.S. in Electrical and Computer Engineering, University of Washington, 2023
 * Ph.D in Electrical and Computer Engineering, University of Washington, 2028 (expected)
+* M.S. in Electrical and Computer Engineering, University of Washington, 2023
+* B.S. in Photonics, National Chiao Tung University, 2021
 
 Work experience
 ======
+* Spring 2022 - Current: Research Assistant at Information Processing Lab, University of Washington
+  * Advised by Prof. Jenq-Neng Hwang
+  * Research interest includes: Multi Object Tracking, Action Recognition, Object Re-identification
 * Winter 2023: Computer Vision Engineer Intern at Chimei Motor Electronics
   * Work on real-time blind spot monitoring and detection system for oversized vehicles.
   * Improve LDWS (Lane Departure Warning System) under poor visibility condition with auto encoder.
+
 
 <!-- * Fall 2015: Research Assistant
   * Github University
