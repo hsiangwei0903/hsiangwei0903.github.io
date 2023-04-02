@@ -19,7 +19,7 @@ Work experience
 ======
 * Spring 2022 - Current: Research Assistant at Information Processing Lab, University of Washington
   * Advised by Prof. Jenq-Neng Hwang
-  * Research interest includes: Multi Object Tracking, Action Recognition, Object Re-identification
+  * Research interests: Multi Object Tracking, Action Recognition, Object Re-identification
 * Winter 2023: Computer Vision Engineer Intern at Chimei Motor Electronics
   * Work on real-time blind spot monitoring and detection system for oversized vehicles.
   * Improve LDWS (Lane Departure Warning System) under poor visibility condition with auto encoder.
