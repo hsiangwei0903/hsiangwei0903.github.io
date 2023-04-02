@@ -59,6 +59,6 @@ Teaching
   
 Award
 ======
-* 1st Place of 2023 CVPR AI City Challenge in Multi-Camera People Tracking
+* 1st Place of 2023 CVPR AI City Challenge in Multi Camera People Tracking
 * 5th Place of 2023 WACV Maritime Computer Vision Challenge in UAV Multi Object Tracking
 * 3rd Place of 2022 ECCV DeeperAction Challenge in SportsMOT Multi-actor Tracking
