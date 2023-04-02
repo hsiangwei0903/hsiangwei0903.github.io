@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* Winter 2023: Computer Vision Engineer Intern
-  * Chimei Motor Electronics
+* Winter 2023: Computer Vision Engineer Intern at Chimei Motor Electronics
   * Work on real-time blind spot monitoring and detection system for oversized vehicles.
   * Improve LDWS (Lane Departure Warning System) under poor visibility condition with auto encoder.
 
