@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Washington, 2027 (expected)
-* M.S. in Electrical and Computer Engineering, University of Washington, 2023
-* B.S. in Photonics, National Chiao Tung University, 2021
+* Ph.D in Electrical and Computer Engineering, University of Washington, 2023 ~ Current
+* M.S. in Electrical and Computer Engineering, University of Washington, 2021 ~ 2023
+* B.S. in Photonics, National Chiao Tung University, 2017 ~ 2021
 
 Work experience
 ======
