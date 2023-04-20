@@ -1,11 +1,11 @@
 ---
-title: "Ki-67 Index Measurement in Breast Cancer Using Digital Image Analysis"
+title: "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"
 collection: publications
-permalink: /publication/ki67
+permalink: /publication/mcmp
 # excerpt: 'Ki-67 is a nuclear protein that can be produced during cell proliferation. The Ki67 index is a valuable prognostic variable in several kinds of cancer. In breast cancer, the index is even routinely checked in many patients. Currently, pathologists use the immunohistochemistry method to calculate the percentage of Ki-67 positive malignant cells as Ki-67 index. The higher score usually means more aggressive tumor behavior. In clinical practice, the measurement of Ki-67 index relies on visual identifying method and manual counting. However, visual and manual assessment method is timeconsuming and leads to poor reproducibility because of different scoring standards or limited tumor area under assessment. Here, we use digital image processing technics including image binarization and image morphological operations to create a digital image analysis method to interpretate Ki-67 index. Then, 10 breast cancer specimens are used as validation with high accuracy (correlation efficiency r = 0.95127). With the assistance of digital image analysis, pathologists can interpretate the Ki67 index more efficiently, precisely with excellent reproducibility.'
-date: 2020-11-26
+date: 2023-04-19
 venue: 'ArXiv'
-paperurl: 'https://arxiv.org/ftp/arxiv/papers/2209/2209.13155.pdf'
-citation: 'Huang, Hsiang-Wei, Wen-Tsung Huang, and Hsun-Heng Tsai. "Ki-67 Index Measurement in Breast Cancer Using Digital Image Analysis." arXiv preprint arXiv:2209.13155 (2022).'
+paperurl: 'https://arxiv.org/abs/2304.09471'
+citation: 'Huang, Hsiang-Wei,  Cheng-Yen Yang, Zhongyu Jiang, and Jenq-Neng Hwang. "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment." arXiv preprint arXiv:2304.09471 (2023).'
 <!-- ---
 Ki-67 is a nuclear protein that can be produced during cell proliferation. The Ki67 index is a valuable prognostic variable in several kinds of cancer. In breast cancer, the index is even routinely checked in many patients. Currently, pathologists use the immunohistochemistry method to calculate the percentage of Ki-67 positive malignant cells as Ki-67 index. The higher score usually means more aggressive tumor behavior. In clinical practice, the measurement of Ki-67 index relies on visual identifying method and manual counting. However, visual and manual assessment method is timeconsuming and leads to poor reproducibility because of different scoring standards or limited tumor area under assessment. Here, we use digital image processing technics including image binarization and image morphological operations to create a digital image analysis method to interpretate Ki-67 index. Then, 10 breast cancer specimens are used as validation with high accuracy (correlation efficiency r = 0.95127). With the assistance of digital image analysis, pathologists can interpretate the Ki67 index more efficiently, precisely with excellent reproducibility. -->
