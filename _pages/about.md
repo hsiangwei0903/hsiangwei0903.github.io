@@ -31,4 +31,4 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
   
 </ul>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=n&d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&co=ffffff'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=a&t=n&d=i6Cg2uwoVYtktTxLJzeGkQjg7ICgXupw_nf4-TfxTF4&co=ffffff'></script> -->
