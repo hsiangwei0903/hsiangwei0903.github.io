@@ -23,6 +23,8 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
 
   <li> <b>[Feb. 2023]</b> Started my intership at <a href="http://www.chimei-motor.com/en/">Chimei Motor Electronics</a> Research and Development department.</li>
 
+  <li> <b>[Jan. 2023]</b> Gave an oral presenation at the 2023 WACV CV4WS Workshop for our paper <a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">"Observation Centric and Central Distance Recovery for Athlete Tracking".</a></li>
+
   <li> <b>[Dec. 2022]</b> Successfully defended my master thesis "Observation Centric and Central Distance Recovery for Tracking of Sports Athletes"!</li>
 
   <li> <b>[Dec. 2022]</b> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">"Observation Centric and Central Distance Recovery for Athlete Tracking"</a> is accepted by the 2023 WACV CV4WS Workshop!</li>
