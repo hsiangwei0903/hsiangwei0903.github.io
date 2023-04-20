@@ -15,7 +15,7 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Apr. 2023]</b> Our paper "Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment" is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
+  <li> <b>[Apr. 2023]</b> Our paper <a href="https://arxiv.org/abs/2304.09471">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
 
   <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera Multi-People Tracking!</li>
 
