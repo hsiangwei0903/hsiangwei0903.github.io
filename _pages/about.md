@@ -28,8 +28,6 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
   <li> <b>[Aug. 2022]</b> Our team won the 3rd place of <a href="https://deeperaction.github.io/">2022 ECCV DeeperAction Challenge</a> Track 3 in Multi-Actor Tracking!</li>
   
   <li> <b>[Sep. 2021]</b> Started my graduate study at University of Washington as a master student.</li>
-
-  <li> <b>[Jan. 2021]</b> Graduated with a B.Sc. degree from National Chiao Tung University.</li>
   
 </ul>
 
