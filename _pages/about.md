@@ -19,7 +19,7 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
 
   <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera Multi-People Tracking!</li>
 
-  <li> <b>[Mar. 2023]</b> Started my graduate study at University of Washington as a PhD student working at the <a href="https://ipl-uw.github.io/">information processing lab</a> advised by prof.Jenq-Neng Hwang.</li>
+  <li> <b>[Mar. 2023]</b> Started my graduate study at University of Washington as a PhD student working at the <a href="https://ipl-uw.github.io/">information processing lab</a> advised by prof. Jenq-Neng Hwang.</li>
 
   <li> <b>[Dec. 2022]</b> Successfully defended my master thesis "Observation Centric and Central Distance Recovery for Tracking of Sports Athletes"</li>
 
