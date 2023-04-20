@@ -21,7 +21,7 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
 
   <li> <b>[Mar. 2023]</b> Started my graduate study at University of Washington as a PhD student working at the <a href="https://ipl-uw.github.io/">information processing lab</a> advised by prof. Jenq-Neng Hwang.</li>
 
-  <li> <b>[Feb. 2023]</b> Started my intership at<a href="http://www.chimei-motor.com/en/">Chimei Motor Electronics</a> Research and Development department.</li>
+  <li> <b>[Feb. 2023]</b> Started my intership at <a href="http://www.chimei-motor.com/en/">Chimei Motor Electronics</a> Research and Development department.</li>
 
   <li> <b>[Dec. 2022]</b> Successfully defended my master thesis "Observation Centric and Central Distance Recovery for Tracking of Sports Athletes"!</li>
 
