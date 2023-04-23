@@ -7,7 +7,7 @@ author_profile: true
 
 # <i class="fa fa-fw fa-copy"></i> Publications #
 
-## Publication ##
+<!-- ## Conference Paper ## -->
 
 <p>
 <a href="http://hsiangwei0903.github.io/publications/mcmp"><img src="https://hsiangwei0903.github.io/images/mcmp.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
