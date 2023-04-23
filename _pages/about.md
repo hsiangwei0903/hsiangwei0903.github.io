@@ -23,13 +23,13 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
 
   <li> <b>[Feb. 2023]</b> Started my intership at <a href="http://www.chimei-motor.com/en/">Chimei Motor Electronics</a> Research and Development department.</li>
 
-  <li> <b>[Jan. 2023]</b> Gave an oral presenation at the 2023 WACV CV4WS Workshop for our paper <a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">"Observation Centric and Central Distance Recovery for Athlete Tracking".</a></li>
+  <li> <b>[Jan. 2023]</b> Gave an oral presenation at the 2023 WACV CV4WS Workshop for our paper <a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">"Observation Centric and Central Distance Recovery for Athlete Tracking"</a>.</li>
 
-  <li> <b>[Dec. 2022]</b> Successfully defended my master thesis "Observation Centric and Central Distance Recovery for Tracking of Sports Athletes"!</li>
+  <li> <b>[Dec. 2022]</b> Successfully defended my master thesis <a href="https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/49896/Huang_washington_0250O_24948.pdf?sequence=1&isAllowed=y">"Observation Centric and Central Distance Recovery for Tracking of Sports Athletes"</a>!</li>
 
   <li> <b>[Dec. 2022]</b> Our paper <a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">"Observation Centric and Central Distance Recovery for Athlete Tracking"</a> is accepted by the 2023 WACV CV4WS Workshop!</li>
 
-  <li> <b>[Aug. 2022]</b> Our team won the 3rd place of <a href="https://deeperaction.github.io/">2022 ECCV DeeperAction Challenge</a> Track 3 in Multi-Actor Tracking!</li>
+  <li> <b>[Aug. 2022]</b> Our team won the 3rd place of <a href="https://deeperaction.github.io/">2022 ECCV SportsMOT Challenge on Multi-actor Tracking</a>!</li>
   
   <li> <b>[Sep. 2021]</b> Started my graduate study at University of Washington as a master student.</li>
   
