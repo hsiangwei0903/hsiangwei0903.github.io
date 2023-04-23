@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student studying Electrical and Computer Engineering at the University of Washington. I am working with Prof. Jenq-Neng Hwang and the Information Processing Lab. 
+I am a first-year Ph.D. student studying Electrical and Computer Engineering at the University of Washington. I am working with Prof. Jenq-Neng Hwang and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. 
 
 My research interests lie around Multi-Object Tracking, Action Recognition and Object ReID.
 
@@ -19,7 +19,7 @@ My research interests lie around Multi-Object Tracking, Action Recognition and O
 
   <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera Multi-People Tracking!</li>
 
-  <li> <b>[Mar. 2023]</b> Started my graduate study at University of Washington as a PhD student working at the <a href="https://ipl-uw.github.io/">information processing lab</a> advised by prof. Jenq-Neng Hwang.</li>
+  <li> <b>[Mar. 2023]</b> Started my graduate study at University of Washington as a PhD student working at the <a href="https://ipl-uw.github.io/">Information Processing Lab</a> advised by prof. Jenq-Neng Hwang.</li>
 
   <li> <b>[Feb. 2023]</b> Started my intership at <a href="http://www.chimei-motor.com/en/">Chimei Motor Electronics</a> Research and Development department.</li>
 
