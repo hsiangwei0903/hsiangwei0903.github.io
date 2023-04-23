@@ -20,7 +20,7 @@ Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</a></b
 </p>
 
 <p>
-<a href="http://hsiangwei0903.github.io/publications/sports"><img src="https://hsiangwei0903.github.io/images/sportsmot.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<a href="http://hsiangwei0903.github.io/publications/sports"><img src="https://hsiangwei0903.github.io/images/sportsmot.JPG?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/sports">Observation Centric and Central Distance Recovery for Athlete Tracking</a></b><br> 
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang and Jenq-Neng Hwang. <i>2023 WACVW</i>.<br>
 [<a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">Paper</a>]
@@ -39,7 +39,7 @@ Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</a></b
 </p>
 
 <p>
-<a href="http://hsiangwei0903.github.io/publications/ki67"><img src="https://hsiangwei0903.github.io/images/ki67.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<a href="http://hsiangwei0903.github.io/publications/ki67"><img src="https://hsiangwei0903.github.io/images/ki67.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/ki67">Ki-67 Index Measurement in Breast Cancer Using Digital Image Analysis</a></b><br> 
 <b>Hsiang-Wei Huang</b>, Wen-Tsung Huang, and Hsun-Heng Tsai. <i>ArXiv</i>.<br>
 [<a href="https://arxiv.org/abs/2209.13155">Paper</a>]
