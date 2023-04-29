@@ -31,7 +31,7 @@ Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</a></b
 </p>
 
 <p>
-<a href="http://hsiangwei0903.github.io/publications/mtmc_vehicle"><img src="https://hsiangwei0903.github.io/images/mtmc_vehicle.png?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
+<a href="http://hsiangwei0903.github.io/publications/mtmc_vehicle"><img src="https://hsiangwei0903.github.io/images/aic.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/mtmc_vehicle">Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information</a></b><br> 
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang and Jenq-Neng Hwang. <i>In Submission</i>.<br>
 [<a href="https://arxiv.org/abs/2301.07805">Paper</a>]
