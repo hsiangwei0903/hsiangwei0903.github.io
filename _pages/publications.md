@@ -13,7 +13,7 @@ author_profile: true
 <a href="http://hsiangwei0903.github.io/publications/mcmp"><img src="https://hsiangwei0903.github.io/images/mcmp.jpg?raw=true" alt="Figure" style="width: 200px;" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/mcmp">Enhancing Multi-Camera People Tracking with
 Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</a></b><br> 
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang and Jenq-Neng Hwang. <i>2023 CVPRW</i>.<br>
+<b>Hsiang-Wei Huang*</b>, Cheng-Yen Yang*, Zhongyu Jiang and Jenq-Neng Hwang. <i>2023 CVPRW</i>.<br>
 [<a href="https://arxiv.org/abs/2304.09471">Paper</a>]
 [<a href="https://youtu.be/0oLuCO-_ZNA">Demo</a>]
 <br clear="left">
