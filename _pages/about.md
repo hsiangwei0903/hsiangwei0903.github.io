@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student studying Electrical and Computer Engineering at the University of Washington. I am working with Prof. Jenq-Neng Hwang and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. 
+I am a first-year graduate student pursuing a Ph.D. degree in Electrical and Computer Engineering at the University of Washington. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor of Science degree from the prestigious National Chiao Tung University in Taiwan.
 
-My research interests lie around Multi-Object Tracking, Action Recognition and Object ReID.
+Currently I am working with Prof. Jenq-Neng Hwang and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on multi-object tracking, re-identification, and action recognition, my research interests lie at the intersection of computer vision and artificial intelligence.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
