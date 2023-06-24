@@ -9,13 +9,19 @@ redirect_from:
 ---
 I am a first-year graduate student pursuing a Ph.D. degree in Electrical and Computer Engineering at the University of Washington. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor of Science degree from the National Chiao Tung University in Taiwan.
 
-Currently I am working with Prof. Jenq-Neng Hwang and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on multi-object tracking, re-identification, and action recognition, my research interests lie at the intersection of computer vision and artificial intelligence.
+Currently I am working with Prof. Jenq-Neng Hwang <a href="https://people.ece.uw.edu/hwang/">Information Processing Lab</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on single and multi-camera multi-object tracking, re-identification, and action recognition.
+
+The team he led achieved rank #1 in Track 1 (Multi-Camera People Tracking) at the 7nd AI City Challenge Workshop in CVPR 2023, rank #3 in Track 3 (Multi-Actor Tracking) at the 2nd DeeperAction Challenge in ECCV 2022.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Apr. 2023]</b> Our paper <a href="https://arxiv.org/abs/2304.09471">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
+  <li> <b>[Jun. 2023]</b> My new paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is published on ArXiv. It achieve SOTA performance among all the online trackers on the SportsMOT dataset!</li>
+
+  <li> <b>[Jun. 2023]</b> Gave an oral presentation at the 2023 CVPR <a href="https://www.aicitychallenge.org/2023-workshop/">2023 CVPR AI City Challenge Workshop</a>.</li>
+
+  <li> <b>[Apr. 2023]</b> Our paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
 
   <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera Multi-People Tracking!</li>
 
