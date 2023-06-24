@@ -10,12 +10,22 @@ author_profile: true
 <!-- ## Conference Paper ## -->
 
 <p>
+<a href="http://hsiangwei0903.github.io/publications/sports2"><img src="https://hsiangwei0903.github.io/images/sports2.jpg?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/></a>
+<b><a href="http://hsiangwei0903.github.io/publications/sports2">Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports</a></b><br> 
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang and Chung-I Huang. <i>ArXiv</i>.<br>
+[<a href="https://arxiv.org/abs/2304.09471">Paper</a>]
+[<a href="https://github.com/hsiangwei0903/Deep-EIoU">Code</a>]
+<br clear="left">
+</p>
+
+<p>
 <a href="http://hsiangwei0903.github.io/publications/mcmp"><img src="https://hsiangwei0903.github.io/images/mcmp.jpg?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/mcmp">Enhancing Multi-Camera People Tracking with
 Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</a></b><br> 
 <b>Hsiang-Wei Huang*</b>, Cheng-Yen Yang*, Zhongyu Jiang and Jenq-Neng Hwang. <i>2023 CVPRW</i>.<br>
-[<a href="https://arxiv.org/abs/2304.09471">Paper</a>]
+[<a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">Paper</a>]
 [<a href="https://youtu.be/0oLuCO-_ZNA">Demo</a>]
+[<a href="https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI">Code</a>]
 <br clear="left">
 </p>
 
