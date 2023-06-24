@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/sports2
 excerpt: 'Multi-object tracking algorithms have made significant advancements due to the recent developments in object detection. However, most existing methods primarily focus on tracking pedestrians or vehicles, which exhibit relatively simple and regular motion patterns. Consequently, there is a scarcity of algorithms that address the tracking of targets with irregular or non-linear motion, such as multi-athlete tracking. Furthermore, popular tracking algorithms often rely on the Kalman filter for object motion modeling, which fails to track objects when their motion contradicts the linear motion assumption of the Kalman filter. Due to this reason, we proposed a novel online and robust multi-object tracking approach, named Iterative Scale-Up ExpansionIoU and Deep Features for multi-object tracking. Unlike conventional methods, we abandon the use of the Kalman filter and propose utilizing the iterative scale-up expansion IoU. This approach achieves superior tracking performance without requiring additional training data or adopting a more robust detector, all while maintaining a lower computational cost compared to other appearance-based methods. Our proposed method demonstrates remarkable effectiveness in tracking irregular motion objects, achieving a score of 75.3% in HOTA. It outperforms all state-of-the-art online tracking algorithms on the SportsMOT dataset, covering various kinds of sport scenarios.'
 date: 2023-06-22
-venue: 'ArXiv'
+venue: 'In submission'
 # paperurl: 'https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf'
 # citation: 'Huang, Hsiang-Wei, et al. "Observation Centric and Central Distance Recovery for Athlete Tracking." Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.'
 ---
@@ -13,7 +13,7 @@ Multi-object tracking algorithms have made significant advancements due to the r
 ## Citation
 @article{huang2023iterative,
   title={Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports},
-  author={Huang, Hsiang-Wei and Yang, Cheng-Yen  and Hwang, Jenq-Neng and Huang, Chung-I},
+  author={Huang, Hsiang-Wei and Yang, Cheng-Yen and Hwang and Jenq-Neng and Huang, Chung-I},
   journal={arXiv preprint arXiv:2306.13074},
   year={2023}
 }
