@@ -11,7 +11,7 @@ I am a first-year graduate student pursuing a Ph.D. degree in Electrical and Com
 
 Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on single and multi-camera multi-object tracking, re-identification, and action recognition.
 
-The team he led achieved 1st Place in Track 1 (Multi-Camera People Tracking) at the 7nd AI City Challenge Workshop in CVPR 2023, 3rd Place in Track 3 (Multi-Actor Tracking) at the 2nd DeeperAction Challenge in ECCV 2022.
+The team he led achieved 1st Place in Track 1 (Multi-Camera People Tracking) at the AI City Challenge Workshop in CVPR 2023, 3rd Place in Track 3 (Multi-Actor Tracking) at the DeeperAction Challenge in ECCV 2022.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
