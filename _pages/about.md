@@ -17,13 +17,13 @@ The team he led achieved 1st Place in Track 1 (Multi-Camera People Tracking) at 
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Jun. 2023]</b> My first author paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is published on ArXiv. It achieve SOTA performance among all the online trackers on the SportsMOT dataset!</li>
+  <li> <b>[Jun. 2023]</b> My first author paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is published on ArXiv. It achieve State-Of-The-Art performance on the SportsMOT dataset!</li>
 
   <li> <b>[Jun. 2023]</b> Gave an oral presentation for my co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> at the <a href="https://www.aicitychallenge.org/2023-workshop/">2023 CVPR AI City Challenge Workshop</a>.</li>
 
   <li> <b>[Apr. 2023]</b> My co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
 
-  <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera Multi-People Tracking!</li>
+  <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera People Tracking!</li>
 
   <li> <b>[Mar. 2023]</b> Started my graduate study at University of Washington as a PhD student working at the <a href="https://ipl-uw.github.io/">Information Processing Lab</a> advised by prof. Jenq-Neng Hwang.</li>
 
