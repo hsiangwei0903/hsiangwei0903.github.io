@@ -17,7 +17,7 @@ The team he led achieved 1st Place in Track 1 (Multi-Camera People Tracking) at 
 
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Jun. 2023]</b> My first author paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is published on ArXiv. It achieve State-Of-The-Art performance on the SportsMOT dataset!</li>
+  <li> <b>[Jun. 2023]</b> My first author paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is published on ArXiv. It achieves State-Of-The-Art performance on the SportsMOT dataset!</li>
 
   <li> <b>[Jun. 2023]</b> Gave an oral presentation for my co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> at the <a href="https://www.aicitychallenge.org/2023-workshop/">2023 CVPR AI City Challenge Workshop</a>.</li>
 
