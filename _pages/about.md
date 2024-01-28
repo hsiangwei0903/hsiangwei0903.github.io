@@ -17,6 +17,8 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Jan. 2024]</b> Our paper "A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos" is accepted by IEEE ICASSP 2024.</li>
+
   <li> <b>[Nov. 2023]</b> Passed the qualifying exam. One down, two to go!</li>
   
   <li> <b>[Nov. 2023]</b> Our paper <a href="https://arxiv.org/abs/2311.03561">"Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking"</a> is accepted by the 2024 WACV 2nd Workshop on Maritime Computer Vision. It achieves State-Of-The-Art performance on the SeaDroneSee UAV Multi-Object Tracking dataset!</li>
