@@ -21,8 +21,8 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie M
 <p>
 <a href="http://hsiangwei0903.github.io/publications/sports2"><img src="https://hsiangwei0903.github.io/images/sports2.jpg?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/sports2">Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports</a></b><br> 
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang and Chung-I Huang. <i>2024 WACVW</i>.<br>
-[<a href="https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Huang_Iterative_Scale-Up_ExpansionIoU_and_Deep_Features_Association_for_Multi-Object_Tracking_WACVW_2024_paper.pdf">Paper</a>]
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang and Chung-I Huang. <i>In Submission</i>.<br>
+[<a href="https://arxiv.org/abs/2306.13074">Paper</a>]
 [<a href="https://github.com/hsiangwei0903/Deep-EIoU">Code</a>]
 <br clear="left">
 </p>

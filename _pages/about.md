@@ -16,12 +16,18 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Jan. 2024]</b> Our paper "A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos" is accepted by IEEE ICASSP 2024.</li>
+
+  <li> <b>[Nov. 2023]</b> Passed the qualifying exam. One down, two to go!</li>
   
+  <li> <b>[Nov. 2023]</b> Our paper <a href="https://arxiv.org/abs/2311.03561">"Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking"</a> is accepted by the 2024 WACV 2nd Workshop on Maritime Computer Vision. It achieves State-Of-The-Art performance on the SeaDroneSee UAV Multi-Object Tracking dataset!</li>
+
+  <li> <b>[Nov. 2023]</b> Our team won the 1st place of <a href="https://macvi.org/workshop/macvi24/challenges/">2024 MaCVi Challenge</a> UAV Multi-Object Tracking and USV Multi-Object Tracking tracks!</li>
+
   <li> <b>[Nov. 2023]</b> My first author paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is accepted by the 2024 WACV Real-World Surveillance: Applications and Challenges Workshop. It achieves State-Of-The-Art performance on the SportsMOT dataset!</li>
 
-  <li> <b>[Jun. 2023]</b> Gave an oral presentation for my co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> at the <a href="https://www.aicitychallenge.org/2023-workshop/">2023 CVPR AI City Challenge Workshop</a>.</li>
-
-  <li> <b>[Apr. 2023]</b> My co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
+  <li> <b>[Jun. 2023]</b> My co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
 
   <li> <b>[Mar. 2023]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2023 AI City Challenge</a> Track 1 in Multi-Camera People Tracking!</li>
 
