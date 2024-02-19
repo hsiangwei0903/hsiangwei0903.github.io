@@ -11,9 +11,10 @@ venue: '2024 WACV Real-World Surveillance: Applications and Challenges'
 Multi-object tracking algorithms have made significant advancements due to the recent developments in object detection. However, most existing methods primarily focus on tracking pedestrians or vehicles, which exhibit relatively simple and regular motion patterns. Consequently, there is a scarcity of algorithms that address the tracking of targets with irregular or non-linear motion, such as multi-athlete tracking. Furthermore, popular tracking algorithms often rely on the Kalman filter for object motion modeling, which fails to track objects when their motion contradicts the linear motion assumption of the Kalman filter. Due to this reason, we proposed a novel online and robust multi-object tracking approach, named Iterative Scale-Up ExpansionIoU and Deep Features for multi-object tracking. Unlike conventional methods, we abandon the use of the Kalman filter and propose utilizing the iterative scale-up expansion IoU. This approach achieves superior tracking performance without requiring additional training data or adopting a more robust detector, all while maintaining a lower computational cost compared to other appearance-based methods. Our proposed method demonstrates remarkable effectiveness in tracking irregular motion objects, achieving a score of 76.9% in HOTA. It achieves state-of-the-art performance on the SportsMOT dataset, covering various kinds of sport scenarios.
 
 ## Citation
-@article{huang2023iterative,
-  title={Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports},
-  author={Huang, Hsiang-Wei and Yang, Cheng-Yen and Hwang and Jenq-Neng and Huang, Chung-I},
-  journal={arXiv preprint arXiv:2306.13074},
-  year={2023}
+@inproceedings{huang2024iterative,
+  title={Iterative scale-up expansioniou and deep features association for multi-object tracking in sports},
+  author={Huang, Hsiang-Wei and Yang, Cheng-Yen and Sun, Jiacheng and Kim, Pyong-Kun and Kim, Kwang-Ju and Lee, Kyoungoh and Huang, Chung-I and Hwang, Jenq-Neng},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={163--172},
+  year={2024}
 }
