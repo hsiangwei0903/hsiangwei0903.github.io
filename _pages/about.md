@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-I am a first-year graduate student pursuing a Ph.D. degree in Electrical and Computer Engineering at the University of Washington. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor of Science degree from the National Chiao Tung University in Taiwan.
+I am a second-year graduate student pursuing a Ph.D. degree in Electrical and Computer Engineering at the University of Washington. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
-Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on single and multi-camera multi-object tracking, re-identification, and action recognition.
-
-<!-- The team he led achieved 1st Place in Track 1 (Multi-Camera People Tracking) at the AI City Challenge Workshop in CVPR 2023, 3rd Place in Track 3 (Multi-Actor Tracking) at the DeeperAction Challenge in ECCV 2022. -->
+Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on single and multi-camera multi-object tracking, re-identification, action recognition, and multi-modal learning.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
