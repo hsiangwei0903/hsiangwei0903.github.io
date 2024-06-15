@@ -15,6 +15,8 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Jun. 2024]</b> Started my applied scientist internship at Amazon Visual Perception Team, Bellevue.</li>
+
   <li> <b>[Apr. 2024]</b> My co-first author paper "An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequence" is accepted by 2024 CVPR AI City Challenge Workshop.</li>
 
   <li> <b>[Apr. 2024]</b> Our paper "Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check" is accepted by 2024 IEEE Intelligent Vehicles Symposium (IV 2024).</li>
