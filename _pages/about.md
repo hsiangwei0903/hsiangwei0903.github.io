@@ -15,6 +15,8 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[July. 2024]</b> Our paper "RT-Pose: A 4D Radar-Tensor based 3D Human Pose Estimation and Localization Benchmark." is accepted by ECCV 2024.</li>
+
   <li> <b>[Jun. 2024]</b> Started my internship at Amazon Visual Perception Team.</li>
 
   <li> <b>[Apr. 2024]</b> My co-first author paper "An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequence" is accepted by 2024 CVPR AI City Challenge Workshop.</li>
