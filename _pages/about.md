@@ -15,7 +15,9 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[July. 2024]</b> Our paper "RT-Pose: A 4D Radar-Tensor based 3D Human Pose Estimation and Localization Benchmark." is accepted by ECCV 2024.</li>
+  <li> <b>[Aug. 2024]</b> My first author paper "ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment" is accepted by 2024 ECCV Workshop.</li>
+
+  <li> <b>[Jul. 2024]</b> Our paper "RT-Pose: A 4D Radar-Tensor based 3D Human Pose Estimation and Localization Benchmark." is accepted by ECCV 2024.</li>
 
   <li> <b>[Jun. 2024]</b> Started my internship at Amazon Visual Perception Team.</li>
 
@@ -33,7 +35,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Nov. 2023]</b> Our team won the 1st place of <a href="https://macvi.org/workshop/macvi24/challenges/">2024 MaCVi Challenge</a> UAV Multi-Object Tracking and USV Multi-Object Tracking tracks!</li>
 
-  <li> <b>[Nov. 2023]</b> My first author paper <a href="https://arxiv.org/abs/2306.13074">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is accepted by the 2024 WACV Real-World Surveillance: Applications and Challenges Workshop. It achieves State-Of-The-Art performance on the SportsMOT dataset!</li>
+  <li> <b>[Nov. 2023]</b> My first author paper <a href="https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Huang_Iterative_Scale-Up_ExpansionIoU_and_Deep_Features_Association_for_Multi-Object_Tracking_WACVW_2024_paper.pdf">"Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports"</a> is accepted by the 2024 WACV Real-World Surveillance: Applications and Challenges Workshop. It achieves State-Of-The-Art performance on the SportsMOT dataset!</li>
 
   <li> <b>[Jun. 2023]</b> My co-first author paper <a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">"Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment"</a> is accepted by the 2023 CVPR AI City Challenge Workshop!</li>
 
