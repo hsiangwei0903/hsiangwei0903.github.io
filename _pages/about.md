@@ -31,7 +31,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Nov. 2023]</b> Passed the qualifying exam. One down, two to go!</li>
   
-  <li> <b>[Nov. 2023]</b> Our paper <a href="https://arxiv.org/abs/2311.03561">"Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking"</a> is accepted by the 2024 WACV 2nd Workshop on Maritime Computer Vision. It achieves State-Of-The-Art performance on the SeaDroneSee UAV Multi-Object Tracking dataset!</li>
+  <li> <b>[Nov. 2023]</b> Our paper <a href="https://openaccess.thecvf.com/content/WACV2024W/MaCVi/papers/Yang_Sea_You_Later_Metadata-Guided_Long-Term_Re-Identification_for_UAV-Based_Multi-Object_Tracking_WACVW_2024_paper.pdf">"Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking"</a> is accepted by the 2024 WACV 2nd Workshop on Maritime Computer Vision. It achieves State-Of-The-Art performance on the SeaDroneSee UAV Multi-Object Tracking dataset!</li>
 
   <li> <b>[Nov. 2023]</b> Our team won the 1st place of <a href="https://macvi.org/workshop/macvi24/challenges/">2024 MaCVi Challenge</a> UAV Multi-Object Tracking and USV Multi-Object Tracking tracks!</li>
 
