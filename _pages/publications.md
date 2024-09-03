@@ -9,6 +9,8 @@ author_profile: true
 
 <!-- ## Conference Paper ## -->
 
+I am too lazy to update this page. To view the list of all my publications, please refer to google scholar <a href="https://scholar.google.com/citations?user=4-OqJi4AAAAJ&hl=zh-TW">.
+
 <p>
 <a href="http://hsiangwei0903.github.io/publications/counting"><img src="https://hsiangwei0903.github.io/images/counting.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/></a>
 <b><a href="http://hsiangwei0903.github.io/publications/counting">A  Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos</a></b><br> 
