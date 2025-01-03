@@ -9,11 +9,17 @@ redirect_from:
 ---
 I am a second-year graduate student pursuing a Ph.D. degree in Electrical and Computer Engineering at the University of Washington. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
-Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>. With a strong focus on single and multi-camera multi-object tracking, re-identification, action recognition, and multi-modal learning.
+Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>, with a strong focus on Object tracking, 3D Understanding and Vision-Language Models.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Dec. 2024]</b> My first author paper "MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking" is accepted by 2025 IEEE ICASSP.</li>
+
+  <li> <b>[Nov. 2024]</b> We release SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory, project page is available at <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">[Page]</a>.</li>
+
+  <li> <b>[Oct. 2024]</b> Our team won the 1st place of <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">2024 MMVPR Tracking Challenge</a> in Multi-modal Visual Object Tracking.</li>
 
   <li> <b>[Aug. 2024]</b> My first author paper "ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment" is accepted by 2024 ECCV Workshop.</li>
 
@@ -23,7 +29,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Apr. 2024]</b> My co-first author paper "An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequence" is accepted by 2024 CVPR AI City Challenge Workshop.</li>
 
-  <li> <b>[Apr. 2024]</b> Our paper "Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check" is accepted by 2024 IEEE Intelligent Vehicles Symposium (IV 2024).</li>
+  <li> <b>[Apr. 2024]</b> Our paper "Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check" is accepted by 2024 IEEE Intelligent Vehicles Symposium.</li>
 
   <li> <b>[Apr. 2024]</b> Gave a talk at National Chiayi University (NCYU) with topic "Deep Learning in Video Understanding: Applications, Challenges and Trend".</li>
 
