@@ -17,7 +17,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Dec. 2024]</b> My first author paper "MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking" is accepted by 2025 IEEE ICASSP.</li>
 
-  <li> <b>[Nov. 2024]</b> We release SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory, project page is available at <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">[Page]</a>.</li>
+  <li> <b>[Nov. 2024]</b> We release SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory, project page is available at <a href="https://yangchris11.github.io/samurai/">here</a>.</li>
 
   <li> <b>[Oct. 2024]</b> Our team won the 1st place of <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">2024 MMVPR Tracking Challenge</a> in Multi-modal Visual Object Tracking.</li>
 
