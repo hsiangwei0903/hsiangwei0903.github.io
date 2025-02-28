@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-I am a second-year graduate student pursuing a Ph.D. degree in Electrical and Computer Engineering at the University of Washington. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
+I am a second-year PhD student at the Electrical and Computer Engineering department at the University of Washington - Seattle. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
-Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>, with a strong focus on Object tracking, 3D Understanding and Vision-Language Models.
+Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>, with a strong focus on Object tracking, 3D Understanding and Large Multi-modal Models.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
