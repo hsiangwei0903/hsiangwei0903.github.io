@@ -15,7 +15,11 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Dec. 2024]</b> My first author paper "MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking" is accepted by 2025 IEEE ICASSP.</li>
+  <li> <b>[Feb. 2025]</b> My first author paper "Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression" is accepted by CVPR 2025.</li>
+
+  <li> <b>[Dec. 2024]</b> Our team won the 2nd place of <a href="https://sites.google.com/unitn.it/cv4ws-wacv2025/skitb-challenge?authuser=0">2025 SkiTB Visual Tracking Challenge</a>, in conjunction with WACV 2025.</li>
+
+  <li> <b>[Dec. 2024]</b> My first author paper "MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking" is accepted by ICASSP 2025.</li>
 
   <li> <b>[Nov. 2024]</b> We release SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory, project page is available at <a href="https://yangchris11.github.io/samurai/">here</a>.</li>
 
