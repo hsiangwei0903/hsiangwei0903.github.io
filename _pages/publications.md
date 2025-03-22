@@ -124,7 +124,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/sports.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/eiou.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports</b><br> 
 <i>WACV Workshop</i>, 2024.<br>
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang, Chung-I Huang.  
@@ -154,7 +154,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/sportsmot.JPG?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/sports.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Observation Centric and Central Distance Recovery for Athlete Tracking</b><br> 
 <i>WACV Workshop</i>, 2023.<br>
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang.  
