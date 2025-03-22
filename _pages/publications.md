@@ -106,6 +106,15 @@ Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>,
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/mmck.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<b>Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check</b><br> 
+<i>2024 IEEE Intelligent Vehicles Symposium (IV)</i>, Jun 2024.<br>
+Sheng-Yao Kuan, Jen-Hao Cheng, <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Cheng-Yen Yang, Hugo Latapie, Gaowen Liu, Bing-Fei Wu, Jenq-Neng Hwang.<br>
+[<a href="https://ieeexplore.ieee.org/document/10588514">Paper</a>] 
+<br clear="left">
+</p>
+
+<p>
 <img src="https://hsiangwei0903.github.io/images/counting.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos</b><br> 
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.  
