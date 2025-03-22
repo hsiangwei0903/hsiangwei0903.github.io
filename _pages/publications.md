@@ -18,7 +18,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/mambamot.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/mambamot.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking</b><br> 
 <i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
