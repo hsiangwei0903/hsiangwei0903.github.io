@@ -7,10 +7,7 @@ author_profile: true
 
 To view all my publications, please refer to <a href="https://scholar.google.com/citations?user=4-OqJi4AAAAJ&hl=zh-TW">google scholar</a>
 
-# <i class="fa fa-fw fa-copy"></i> Publications #
-# Publications
-
-# Publications
+# <i class="fa fa-fw fa-copy"></i> Publications
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/dtc.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
@@ -29,6 +26,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/3dvg.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>3D Visual Grounding with Reasoning LLM</b><br> 
 <i>In submission</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Kuang-Ming Chen, Wenhao Chai, Cheng-Yen Yang, Jenq-Neng Hwang.<br>
@@ -36,6 +34,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/tosa.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>ToSA: Token Merging with Spatial Awareness</b><br> 
 <i>In submission</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Kuang-Ming Chen, Cheng-Yen Yang, Jenq-Neng Hwang.<br>
@@ -43,6 +42,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/vehicle.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Shot-Aware and Layout-Guided Personalized Vehicle Image Generation</b><br> 
 <i>In submission</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Yanting Zhang, Pyongkun Kim, Kwangju Kim, Jenq-Neng Hwang.<br>
@@ -50,18 +50,13 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/packdit.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Packaging DiTs for Joint Motion-Text Generation</b><br> 
 <i>In Submission</i>, 2024.<br>
 Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
 <br clear="left">
 </p>
 
-<p>
-<b>Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025</b><br> 
-<i>Technical Report</i>, 2025.<br>
-Kunjun Li, Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
-<br clear="left">
-</p>
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
@@ -72,13 +67,7 @@ Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Zhongyu Ji
 </p>
 
 <p>
-<b>Adapting SAM2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Mutli-Modal Tracking</b><br> 
-<i>ICPR MMVPR Workshop</i>, 2024.<br>
-Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Jenq-Neng Hwang.<br>
-<br clear="left">
-</p>
-
-<p>
+<img src="https://hsiangwei0903.github.io/images/gta.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>GTA: Global Tracklet Association for Multi-Object Tracking in Sports</b><br> 
 <i>ACCV MLCSA Workshop</i>, 2024.<br>
 Jiacheng Sun, <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
@@ -86,6 +75,7 @@ Jiacheng Sun, <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Zhongyu J
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/rtpose.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark</b><br> 
 <i>European Conference on Computer Vision (ECCV)</i>, 2024.<br>
 Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
@@ -93,6 +83,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underli
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/toddleract.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment</b><br> 
 <i>ECCV ABAW Workshop</i>, 2024.<br>
 <underline>Hsiang-Wei Huang</underline>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
@@ -100,6 +91,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underli
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/aic2.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequences</b><br> 
 <i>CVPR AI City Challenge Workshop</i>, 2024.<br>
 Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>, Pyong-Kun Kim, Zhongyu Jiang, Jenq-Neng Hwang.<br>
