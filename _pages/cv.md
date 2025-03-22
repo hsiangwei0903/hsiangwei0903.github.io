@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# <i class="fa fa-fw fa-file "></i> Resume #
+<!-- # <i class="fa fa-fw fa-file "></i> Resume # -->
 
 [My resume](http://hsiangwei0903.github.io/files/Resume.pdf)

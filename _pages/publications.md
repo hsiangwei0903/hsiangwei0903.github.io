@@ -7,7 +7,7 @@ author_profile: true
 
 To view all my publications, please refer to <a href="https://scholar.google.com/citations?user=4-OqJi4AAAAJ&hl=zh-TW">google scholar</a>
 
-# <i class="fa fa-fw fa-copy"></i> Publications
+<!-- # <i class="fa fa-fw fa-copy"></i> Publications -->
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/dtc2.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
