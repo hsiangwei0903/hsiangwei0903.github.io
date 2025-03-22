@@ -1,10 +1,13 @@
 # main links links
 main:  
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Quick Chat"
+  url: /chat/
 
   # - title: "Talks"
   #   url: /talks/    
