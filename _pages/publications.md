@@ -124,7 +124,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/sports2.jpg?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/sports.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports</b><br> 
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang, Chung-I Huang.  
 <i>2024 WACVW</i>.<br>
