@@ -13,6 +13,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 # Publications
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/dtc.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression</b><br> 
 <i>Computer Vision and Pattern Recognition (CVPR)</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
@@ -20,6 +21,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/mambamot.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking</b><br> 
 <i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
@@ -62,6 +64,7 @@ Kunjun Li, Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hw
 </p>
 
 <p>
+<img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>SAMURAI: Adapting SAM 2 for Visual Object Tracking with Motion Cues</b><br> 
 <i>In Submission</i>, 2024.<br>
 Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
@@ -150,15 +153,6 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 [<a href="https://www.youtube.com/watch?v=e6ujJtjKVQk">Demo1</a>]  
 [<a href="https://www.youtube.com/watch?v=WuHNBSd0VD4">Demo2</a>]  
 [<a href="https://www.youtube.com/watch?v=1HcOVbvTbB4">Demo3</a>]  
-<br clear="left">
-</p>
-
-<p>
-<img src="https://hsiangwei0903.github.io/images/aic.jpg?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
-<b>Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information</b><br> 
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang.  
-<i>In Submission</i>.<br>
-[<a href="https://arxiv.org/abs/2301.07805">Paper</a>]  
 <br clear="left">
 </p>
 
