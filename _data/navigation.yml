@@ -7,7 +7,7 @@ main:
     url: /publications/
 
   - title: "Quick Chat"
-  url: /chat/
+    url: /chat/
 
   # - title: "Talks"
   #   url: /talks/    
