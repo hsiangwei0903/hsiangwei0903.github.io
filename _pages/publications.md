@@ -10,6 +10,99 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 # <i class="fa fa-fw fa-copy"></i> Publications #
 # Publications
 
+# Publications
+
+<p>
+<b>Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression</b><br> 
+<i>Computer Vision and Pattern Recognition (CVPR)</i>, 2025.<br>
+<underline>Hsiang-Wei Huang</underline>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking</b><br> 
+<i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, 2025.<br>
+<underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>3D Visual Grounding with Reasoning LLM</b><br> 
+<i>In submission</i>, 2025.<br>
+<underline>Hsiang-Wei Huang</underline>, Kuang-Ming Chen, Wenhao Chai, Cheng-Yen Yang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>ToSA: Token Merging with Spatial Awareness</b><br> 
+<i>In submission</i>, 2025.<br>
+<underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Kuang-Ming Chen, Cheng-Yen Yang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>Shot-Aware and Layout-Guided Personalized Vehicle Image Generation</b><br> 
+<i>In submission</i>, 2025.<br>
+<underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Yanting Zhang, Pyongkun Kim, Kwangju Kim, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>Packaging DiTs for Joint Motion-Text Generation</b><br> 
+<i>In Submission</i>, 2024.<br>
+Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025</b><br> 
+<i>Technical Report</i>, 2025.<br>
+Kunjun Li, Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>SAMURAI: Adapting SAM 2 for Visual Object Tracking with Motion Cues</b><br> 
+<i>In Submission</i>, 2024.<br>
+Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>Adapting SAM2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Mutli-Modal Tracking</b><br> 
+<i>ICPR MMVPR Workshop</i>, 2024.<br>
+Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>GTA: Global Tracklet Association for Multi-Object Tracking in Sports</b><br> 
+<i>ACCV MLCSA Workshop</i>, 2024.<br>
+Jiacheng Sun, <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark</b><br> 
+<i>European Conference on Computer Vision (ECCV)</i>, 2024.<br>
+Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment</b><br> 
+<i>ECCV ABAW Workshop</i>, 2024.<br>
+<underline>Hsiang-Wei Huang</underline>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
+<p>
+<b>An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequences</b><br> 
+<i>CVPR AI City Challenge Workshop</i>, 2024.<br>
+Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>, Pyong-Kun Kim, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+<br clear="left">
+</p>
+
 <p>
 <img src="https://hsiangwei0903.github.io/images/counting.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos</b><br> 
