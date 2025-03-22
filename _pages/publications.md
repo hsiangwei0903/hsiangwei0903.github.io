@@ -137,7 +137,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 <img src="https://hsiangwei0903.github.io/images/seayoulater.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking</b><br> 
 <i>WACV Workshop</i>, 2024.<br>
-Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei, Chung-I Huang, Jenq-Neng Hwang.  
+Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei, Chung-I Huang, Jenq-Neng Hwang.  <br>
 [<a href="https://openaccess.thecvf.com/content/WACV2024W/MaCVi/papers/Yang_Sea_You_Later_Metadata-Guided_Long-Term_Re-Identification_for_UAV-Based_Multi-Object_Tracking_WACVW_2024_paper.pdf">Paper</a>]  
 <br clear="left">
 </p>
