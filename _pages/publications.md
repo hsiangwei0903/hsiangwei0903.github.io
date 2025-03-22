@@ -97,7 +97,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsian
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/aic2.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/aic2.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequences</b><br> 
 <i>CVPR Workshop</i>, 2024.<br>
 Cheng-Yen Yang<sup>*</sup>, <b>Hsiang-Wei Huang</b><sup>*</sup>, Pyong-Kun Kim, Zhongyu Jiang, Jenq-Neng Hwang.<br>
