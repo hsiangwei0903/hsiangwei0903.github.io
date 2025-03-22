@@ -14,6 +14,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <b>Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression</b><br> 
 <i>Computer Vision and Pattern Recognition (CVPR)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
+[<a href="https://cvpr.thecvf.com/virtual/2025/poster/33335">Paper Coming Soon!!]
 <br clear="left">
 </p>
 
@@ -66,6 +67,8 @@ Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <b>Hsiang-Wei Huang</b
 <i>In Submission</i>, 2024.<br>
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 [<a href="https://arxiv.org/abs/2411.11922">Paper</a>]
+[<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
+[<a href="https://github.com/yangchris11/samurai">Code</a>]
 <br clear="left">
 </p>
 
@@ -84,6 +87,7 @@ Jiacheng Sun, <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng 
 <i>European Conference on Computer Vision (ECCV)</i>, 2024.<br>
 Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsiang-Wei Huang</b>, Chih-Lung Lin, Jenq-Neng Hwang.<br>
 [<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07989.pdf">Paper</a>]
+[<a href="https://github.com/ipl-uw/RT-POSE">Code</a>]
 <br clear="left">
 </p>
 
