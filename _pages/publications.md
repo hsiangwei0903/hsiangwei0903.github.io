@@ -26,7 +26,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <br clear="left">
 </p>
 
-<p>
+<!-- <p>
 <img src="https://hsiangwei0903.github.io/images/3dvg.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>3D Visual Grounding with Reasoning LLM</b><br> 
 <i>In submission</i>, 2025.<br>
@@ -57,7 +57,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Jenq-Neng Hwang.<br>
 [<a href="https://arxiv.org/abs/2501.16551v1">Paper</a>]
 <br clear="left">
-</p>
+</p> -->
 
 
 <p>
