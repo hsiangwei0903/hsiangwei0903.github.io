@@ -115,7 +115,7 @@ Sheng-Yao Kuan, Jen-Hao Cheng, <underline>Hsiang-Wei Huang</underline>, Wenhao C
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/counting.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/fish.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos</b><br> 
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.  
 <i>2024 IEEE ICASSP</i>.<br>
