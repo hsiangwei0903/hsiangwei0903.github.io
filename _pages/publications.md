@@ -127,7 +127,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 <img src="https://hsiangwei0903.github.io/images/eiou.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports</b><br> 
 <i>WACV Workshop</i>, 2024.<br>
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang, Chung-I Huang.  
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang, Chung-I Huang.  <br>
 [<a href="https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Huang_Iterative_Scale-Up_ExpansionIoU_and_Deep_Features_Association_for_Multi-Object_Tracking_WACVW_2024_paper.pdf">Paper</a>]  
 [<a href="https://github.com/hsiangwei0903/Deep-EIoU">Code</a>]  
 <br clear="left">
@@ -143,10 +143,10 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/mcmp.jpg?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/aic.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</b><br> 
 <i>CVPR Workshop</i>, 2023.<br>
-<b>Hsiang-Wei Huang*</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.  
+<b>Hsiang-Wei Huang*</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang. <br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">Paper</a>]  
 [<a href="https://youtu.be/0oLuCO-_ZNA">Demo</a>]  
 [<a href="https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI">Code</a>]  
@@ -157,7 +157,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 <img src="https://hsiangwei0903.github.io/images/sports.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Observation Centric and Central Distance Recovery for Athlete Tracking</b><br> 
 <i>WACV Workshop</i>, 2023.<br>
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang.  
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang. <br>
 [<a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">Paper</a>]  
 [<a href="https://www.youtube.com/watch?v=e6ujJtjKVQk">Demo1</a>]  
 [<a href="https://www.youtube.com/watch?v=WuHNBSd0VD4">Demo2</a>]  
