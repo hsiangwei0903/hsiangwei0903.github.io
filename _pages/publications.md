@@ -13,7 +13,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <img src="https://hsiangwei0903.github.io/images/dtc.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression</b><br> 
 <i>Computer Vision and Pattern Recognition (CVPR)</i>, 2025.<br>
-<b>Hsiang-Wei Huang</b>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
+<b>Hsiang-Wei Huang</b>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Lu Xia, Sanghun Jung, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
 [<a href="https://cvpr.thecvf.com/virtual/2025/poster/33335">Paper Coming Soon</a>]
 <br clear="left">
 </p>
@@ -121,7 +121,7 @@ Sheng-Yao Kuan, Jen-Hao Cheng, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Cheng-Yen Y
 <p>
 <img src="https://hsiangwei0903.github.io/images/fish.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos</b><br> 
-<i>IEEE ICASSP</i>, 2024.<br>
+<i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, 2024.<br>
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/10447513">Paper</a>]
 <br clear="left">
