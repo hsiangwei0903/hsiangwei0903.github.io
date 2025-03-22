@@ -22,6 +22,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <b>MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking</b><br> 
 <i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, 2025.<br>
 <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/10890199">Paper</a>]
 <br clear="left">
 </p>
 
@@ -54,6 +55,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <b>Packaging DiTs for Joint Motion-Text Generation</b><br> 
 <i>In Submission</i>, 2024.<br>
 Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
+[<a href="https://arxiv.org/abs/2501.16551v1">Paper</a>]
 <br clear="left">
 </p>
 
@@ -63,6 +65,7 @@ Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <underline>Hsiang-Wei 
 <b>SAMURAI: Adapting SAM 2 for Visual Object Tracking with Motion Cues</b><br> 
 <i>In Submission</i>, 2024.<br>
 Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+[<a href="https://arxiv.org/abs/2411.11922">Paper</a>]
 <br clear="left">
 </p>
 
@@ -71,6 +74,7 @@ Cheng-Yen Yang, <underline>Hsiang-Wei Huang</underline>, Wenhao Chai, Zhongyu Ji
 <b>GTA: Global Tracklet Association for Multi-Object Tracking in Sports</b><br> 
 <i>ACCV MLCSA Workshop</i>, 2024.<br>
 Jiacheng Sun, <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+[<a href="https://openaccess.thecvf.com/content/ACCV2024W/MLCSA2024/papers/Sun_GTA_Global_Tracklet_Association_for_Multi-Object_Tracking_in_Sports_ACCVW_2024_paper.pdf">Paper</a>]
 <br clear="left">
 </p>
 
@@ -78,7 +82,8 @@ Jiacheng Sun, <underline>Hsiang-Wei Huang</underline>, Cheng-Yen Yang, Zhongyu J
 <img src="https://hsiangwei0903.github.io/images/rtpose.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark</b><br> 
 <i>European Conference on Computer Vision (ECCV)</i>, 2024.<br>
-Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underline>Hsiang-Wei Huang</underline>, Jenq-Neng Hwang.<br>
+Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underline>Hsiang-Wei Huang</underline>, Chih-Lung Lin, Jenq-Neng Hwang.<br>
+[<a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07989.pdf">Paper</a>]
 <br clear="left">
 </p>
 
@@ -87,6 +92,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underli
 <b>ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment</b><br> 
 <i>ECCV ABAW Workshop</i>, 2024.<br>
 <underline>Hsiang-Wei Huang</underline>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+[<a href="https://arxiv.org/abs/2409.00349">Paper</a>]
 <br clear="left">
 </p>
 
@@ -95,6 +101,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <underli
 <b>An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequences</b><br> 
 <i>CVPR AI City Challenge Workshop</i>, 2024.<br>
 Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>, Pyong-Kun Kim, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+[<a href="https://openaccess.thecvf.com/content/CVPR2024W/AICity/papers/Yang_An_Online_Approach_and_Evaluation_Method_for_Tracking_People_Across_CVPRW_2024_paper.pdf">Paper</a>]
 <br clear="left">
 </p>
 
@@ -103,6 +110,7 @@ Cheng-Yen Yang<sup>*</sup>, <underline>Hsiang-Wei Huang</underline><sup>*</sup>,
 <b>A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos</b><br> 
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.  
 <i>2024 IEEE ICASSP</i>.<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/10447513">Paper</a>]
 <br clear="left">
 </p>
 
@@ -117,7 +125,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/macvi.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/seayoulater.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking</b><br> 
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei, Chung-I Huang, Jenq-Neng Hwang.  
 <i>2024 WACVW</i>.<br>
