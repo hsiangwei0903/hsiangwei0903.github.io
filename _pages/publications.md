@@ -14,7 +14,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <b>Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression</b><br> 
 <i>Computer Vision and Pattern Recognition (CVPR)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
-[<a href="https://cvpr.thecvf.com/virtual/2025/poster/33335">Paper Coming Soon!!]
+[<a href="https://cvpr.thecvf.com/virtual/2025/poster/33335">Paper Coming Soon!!</a>]
 <br clear="left">
 </p>
 
