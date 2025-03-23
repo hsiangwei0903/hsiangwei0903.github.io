@@ -105,7 +105,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsian
 <img src="https://hsiangwei0903.github.io/images/aic2.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequences</b><br> 
 <i>CVPR Workshop</i>, 2024.<br>
-Cheng-Yen Yang<sup>*</sup>, <b>Hsiang-Wei Huang</b><sup>*</sup>, Pyong-Kun Kim, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Pyong-Kun Kim, Zhongyu Jiang, Kwang-Ju Kim, Chung-I Huang, Haiqing Du, Jenq-Neng Hwang
 [<a href="https://openaccess.thecvf.com/content/CVPR2024W/AICity/papers/Yang_An_Online_Approach_and_Evaluation_Method_for_Tracking_People_Across_CVPRW_2024_paper.pdf">Paper</a>]
 <br clear="left">
 </p>
@@ -132,7 +132,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 <img src="https://hsiangwei0903.github.io/images/eiou.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports</b><br> 
 <i>WACV Workshop</i>, 2024.<br>
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang, Chung-I Huang.  <br>
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jiacheng Sun, Pyong-Kun Kim, Kwang-Ju Kim, Kyoungoh Lee, Chung-I Huang, Jenq-Neng Hwang.  <br>
 [<a href="https://openaccess.thecvf.com/content/WACV2024W/RWS/papers/Huang_Iterative_Scale-Up_ExpansionIoU_and_Deep_Features_Association_for_Multi-Object_Tracking_WACVW_2024_paper.pdf">Paper</a>]  
 [<a href="https://github.com/hsiangwei0903/Deep-EIoU">Code</a>]  
 <br clear="left">
@@ -151,7 +151,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 <img src="https://hsiangwei0903.github.io/images/aic.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</b><br> 
 <i>CVPR Workshop</i>, 2023.<br>
-<b>Hsiang-Wei Huang*</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang. <br>
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Pyong-Kun Kim, Kyoungoh Lee, Kwangju Kim, Samartha Ramkumar, Chaitanya Mullapudi, In-Su Jang, Chung-I Huang, Jenq-Neng Hwang. <br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">Paper</a>]  
 [<a href="https://youtu.be/0oLuCO-_ZNA">Demo</a>]  
 [<a href="https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI">Code</a>]  
@@ -162,7 +162,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 <img src="https://hsiangwei0903.github.io/images/sports.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Observation Centric and Central Distance Recovery for Athlete Tracking</b><br> 
 <i>WACV Workshop</i>, 2023.<br>
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Jenq-Neng Hwang. <br>
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Samartha Ramkumar, Chung-I Huang, Jenq-Neng Hwang, Pyong-Kun Kim, Kyoungoh Lee, Kwangju Kim. <br>
 [<a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">Paper</a>]  
 [<a href="https://www.youtube.com/watch?v=e6ujJtjKVQk">Demo1</a>]  
 [<a href="https://www.youtube.com/watch?v=WuHNBSd0VD4">Demo2</a>]  
