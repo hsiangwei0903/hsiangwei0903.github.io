@@ -69,11 +69,12 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng H
 [<a href="https://arxiv.org/abs/2411.11922">Paper</a>]
 [<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
 [<a href="https://github.com/yangchris11/samurai">Code</a>]
+[<a href="https://www.youtube.com/watch?v=pHq9eMVdvcA">Youtube Video</a>]
 <br clear="left">
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/gta.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/gta.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>GTA: Global Tracklet Association for Multi-Object Tracking in Sports</b><br> 
 <i>ACCV Workshop</i>, 2024.<br>
 Jiacheng Sun, <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
@@ -82,7 +83,7 @@ Jiacheng Sun, <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng 
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/rtpose.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/rtpose.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark</b><br> 
 <i>European Conference on Computer Vision (ECCV)</i>, 2024.<br>
 Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsiang-Wei Huang</b>, Chih-Lung Lin, Jenq-Neng Hwang.<br>
@@ -92,7 +93,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsian
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/toddleract.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/toddleract.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment</b><br> 
 <i>ECCV Workshop</i>, 2024.<br>
 <b>Hsiang-Wei Huang</b>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
@@ -110,7 +111,7 @@ Cheng-Yen Yang<sup>*</sup>, <b>Hsiang-Wei Huang</b><sup>*</sup>, Pyong-Kun Kim, 
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/mmck.png?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/mmck.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check</b><br> 
 <i>IEEE Intelligent Vehicles Symposium (IV)</i>, 2024.<br>
 Sheng-Yao Kuan, Jen-Hao Cheng, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Cheng-Yen Yang, Hugo Latapie, Gaowen Liu, Bing-Fei Wu, Jenq-Neng Hwang.<br>
