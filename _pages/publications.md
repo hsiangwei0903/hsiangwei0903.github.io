@@ -64,12 +64,12 @@ Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <b>Hsiang-Wei Huang</b
 <p>
 <img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>SAMURAI: Adapting SAM 2 for Visual Object Tracking with Motion Cues</b><br> 
-<i>In Submission</i>, 2024.<br>
+<i>Under Review</i>, 2024.<br>
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 [<a href="https://arxiv.org/abs/2411.11922">Paper</a>]
 [<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
 [<a href="https://github.com/yangchris11/samurai">Code</a>]
-[<a href="https://www.youtube.com/watch?v=pHq9eMVdvcA">Youtube Video</a>]
+[<a href="https://www.youtube.com/watch?v=pHq9eMVdvcA">Youtube</a>]
 <br clear="left">
 </p>
 
@@ -96,7 +96,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsian
 <img src="https://hsiangwei0903.github.io/images/toddleract.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment</b><br> 
 <i>ECCV Workshop</i>, 2024.<br>
-<b>Hsiang-Wei Huang</b>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwan, Yu-Ching Yeh.<br>
+<b>Hsiang-Wei Huang</b>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang, Yu-Ching Yeh.<br>
 [<a href="https://arxiv.org/abs/2409.00349">Paper</a>]
 <br clear="left">
 </p>
@@ -105,7 +105,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsian
 <img src="https://hsiangwei0903.github.io/images/aic2.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequences</b><br> 
 <i>CVPR Workshop</i>, 2024.<br>
-Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Pyong-Kun Kim, Zhongyu Jiang, Kwang-Ju Kim, Chung-I Huang, Haiqing Du, Jenq-Neng Hwang
+Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Pyong-Kun Kim, Zhongyu Jiang, Kwang-Ju Kim, Chung-I Huang, Haiqing Du, Jenq-Neng Hwang. <br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2024W/AICity/papers/Yang_An_Online_Approach_and_Evaluation_Method_for_Tracking_People_Across_CVPRW_2024_paper.pdf">Paper</a>]
 <br clear="left">
 </p>
@@ -151,7 +151,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 <img src="https://hsiangwei0903.github.io/images/aic.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Enhancing Multi-Camera People Tracking with Anchor-Guided Clustering and Spatio-Temporal Consistency ID Re-Assignment</b><br> 
 <i>CVPR Workshop</i>, 2023.<br>
-<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Pyong-Kun Kim, Kyoungoh Lee, Kwangju Kim, Samartha Ramkumar, Chaitanya Mullapudi, In-Su Jang, Chung-I Huang, Jenq-Neng Hwang. <br>
+<b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Pyong-Kun Kim, Kyoungoh Lee, Kwangju Kim, Chung-I Huang, Jenq-Neng Hwang. <br>
 [<a href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Huang_Enhancing_Multi-Camera_People_Tracking_With_Anchor-Guided_Clustering_and_Spatio-Temporal_Consistency_CVPRW_2023_paper.pdf">Paper</a>]  
 [<a href="https://youtu.be/0oLuCO-_ZNA">Demo</a>]  
 [<a href="https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI">Code</a>]  
@@ -164,9 +164,7 @@ Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Zhongyu Jiang, Heng-Cheng Kuo, Jie Mei,
 <i>WACV Workshop</i>, 2023.<br>
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Samartha Ramkumar, Chung-I Huang, Jenq-Neng Hwang, Pyong-Kun Kim, Kyoungoh Lee, Kwangju Kim. <br>
 [<a href="https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf">Paper</a>]  
-[<a href="https://www.youtube.com/watch?v=e6ujJtjKVQk">Demo1</a>]  
-[<a href="https://www.youtube.com/watch?v=WuHNBSd0VD4">Demo2</a>]  
-[<a href="https://www.youtube.com/watch?v=1HcOVbvTbB4">Demo3</a>]  
+[<a href="https://www.youtube.com/watch?v=e6ujJtjKVQk">Demo</a>]
 <br clear="left">
 </p>
 <!-- 
