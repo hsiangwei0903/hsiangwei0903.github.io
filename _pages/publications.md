@@ -96,7 +96,7 @@ Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsian
 <img src="https://hsiangwei0903.github.io/images/toddleract.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
 <b>ToddlerAct: A Toddler Action Recognition Dataset for Gross Motor Development Assessment</b><br> 
 <i>ECCV Workshop</i>, 2024.<br>
-<b>Hsiang-Wei Huang</b>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+<b>Hsiang-Wei Huang</b>, Jiacheng Sun, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng Hwan, Yu-Ching Yeh.<br>
 [<a href="https://arxiv.org/abs/2409.00349">Paper</a>]
 <br clear="left">
 </p>
