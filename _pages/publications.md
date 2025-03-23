@@ -83,7 +83,7 @@ Jiacheng Sun, <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Zhongyu Jiang, Jenq-Neng 
 </p>
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/rtpose.gif?raw=true" alt="Figure" style="width: 200px; height: 150px" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/rtpose.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark</b><br> 
 <i>European Conference on Computer Vision (ECCV)</i>, 2024.<br>
 Yuan-Hao Ho, Jen-Hao Cheng, Sheng Yao Kuan, Zhongyu Jiang, Wenhao Chai, <b>Hsiang-Wei Huang</b>, Chih-Lung Lin, Jenq-Neng Hwang.<br>
