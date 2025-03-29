@@ -11,4 +11,4 @@ redirect_from:
 
 <!-- # <i class="fa fa-fw fa-file "></i> Resume # -->
 
-[My resume](http://hsiangwei0903.github.io/files/Resume.pdf)
+[My resume](https://drive.google.com/file/d/14X8iRGjGMTsQHoaGAFnSIhrCGOB___9e/view?usp=sharing)
