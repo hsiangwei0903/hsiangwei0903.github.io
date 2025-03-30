@@ -15,7 +15,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Feb. 2025]</b> My first author paper "Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression" is accepted by CVPR 2025.</li>
+  <li> <b>[Feb. 2025]</b> My first author paper <a href="https://cvpr.thecvf.com/virtual/2025/poster/33335">"Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression"</a> is accepted by CVPR 2025.</li>
 
   <li> <b>[Dec. 2024]</b> Our team won the 2nd place of <a href="https://sites.google.com/unitn.it/cv4ws-wacv2025/skitb-challenge?authuser=0">2025 SkiTB Visual Tracking Challenge</a>, in conjunction with WACV 2025.</li>
 
