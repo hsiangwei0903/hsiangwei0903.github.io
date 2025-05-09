@@ -15,7 +15,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[May. 2025]</b> Two first author papers accepted by CVPR 2025 <a href="https://3d-llm-vla.github.io/">"3D LLM/VLA  Workshop"</a>.</li>
+  <li> <b>[May. 2025]</b> Two first author papers accepted by CVPR 2025 <a href="https://3d-llm-vla.github.io/">3D LLM/VLA  Workshop</a>.</li>
 
   <li> <b>[Feb. 2025]</b> My first author paper <a href="https://www.amazon.science/publications/zero-shot-3d-question-answering-via-voxel-based-dynamic-token-compression">"Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression"</a> is accepted by CVPR 2025.</li>
 
