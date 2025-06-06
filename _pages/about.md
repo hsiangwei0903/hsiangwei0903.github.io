@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-I am a third year PhD student studying Electrical and Computer Engineering at the University of Washington - Seattle. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
+I am a PhD candidate studying Electrical and Computer Engineering at the University of Washington - Seattle. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
-Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>, with a strong focus on 3D Understanding and Large Multimodal Models.
+Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>, with a strong focus on Spatial Intelligence, 3D Scene Understanding and Multimodal Large Language Models.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Jun. 2025]</b> I passed the general exam!</a>.</li>
 
   <li> <b>[May. 2025]</b> Two first author papers accepted by CVPR 2025 <a href="https://3d-llm-vla.github.io/">3D LLM/VLA  Workshop</a>.</li>
 
