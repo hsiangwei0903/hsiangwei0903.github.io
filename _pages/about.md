@@ -15,6 +15,8 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Jun. 2025]</b> My first author paper "ToSA: Token Merging with Spatial Awareness"</a> is accepted by IROS 2025.</li>
+
   <li> <b>[Jun. 2025]</b> Passed the general exam.</li>
 
   <li> <b>[May. 2025]</b> Two first author papers accepted by CVPR 2025 <a href="https://3d-llm-vla.github.io/">3D LLM/VLA  Workshop</a>.</li>
