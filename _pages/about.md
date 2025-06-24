@@ -17,7 +17,9 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Jun. 2025]</b> My first author paper "ToSA: Token Merging with Spatial Awareness" is accepted by IROS 2025.</li>
 
-  <li> <b>[Jun. 2025]</b> Passed the general exam.</li>
+  <li> <b>[Jun. 2025]</b> Started my internship at Amazon CoRo Visual Perception Team.</li>
+
+  <li> <b>[Jun. 2025]</b> Passed the general exam!</li>
 
   <li> <b>[May. 2025]</b> Two first author papers accepted by CVPR 2025 <a href="https://3d-llm-vla.github.io/">3D LLM/VLA  Workshop</a>.</li>
 
@@ -35,7 +37,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Jul. 2024]</b> Our paper "RT-Pose: A 4D Radar-Tensor based 3D Human Pose Estimation and Localization Benchmark." is accepted by ECCV 2024.</li>
 
-  <li> <b>[Jun. 2024]</b> Started my internship at Amazon Visual Perception Team.</li>
+  <li> <b>[Jun. 2024]</b> Started my internship at Amazon CoRo Visual Perception Team.</li>
 
   <li> <b>[Apr. 2024]</b> My co-first author paper "An Online Approach and Evaluation Method for Tracking People Across Cameras in Extremely Long Video Sequence" is accepted by 2024 CVPR AI City Challenge Workshop.</li>
 
