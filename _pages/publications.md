@@ -10,7 +10,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <!-- # <i class="fa fa-fw fa-copy"></i> Publications -->
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/dtc.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/tosa.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>ToSA: Token Merging with Spatial Awareness</b><br> 
 <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Wenhao Chai, Kuang-Ming Chen, Cheng-Yen Yang, and Jenq-Neng Hwang.<br>
