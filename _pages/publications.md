@@ -11,10 +11,19 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/dtc.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>ToSA: Token Merging with Spatial Awareness</b><br> 
+<i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025.<br>
+<b>Hsiang-Wei Huang</b>, Wenhao Chai, Kuang-Ming Chen, Cheng-Yen Yang, and Jenq-Neng Hwang.<br>
+[<a href="https://arxiv.org/abs/2506.20066">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/dtc.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression</b><br> 
 <i>Computer Vision and Pattern Recognition (CVPR)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Fu-Chen Chen, Wenhao Chai, Che-Chun Su, Lu Xia, Sanghun Jung, Cheng-Yen Yang, Jenq-Neng Hwang, Min Sun, Cheng-hao Kuo.<br>
-[<a href="https://www.amazon.science/publications/zero-shot-3d-question-answering-via-voxel-based-dynamic-token-compression">Paper</a>]
+[<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Zero-shot_3D_Question_Answering_via_Voxel-based_Dynamic_Token_Compression_CVPR_2025_paper.html">Paper</a>]
 <br clear="left">
 </p>
 

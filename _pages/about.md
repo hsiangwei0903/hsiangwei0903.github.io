@@ -15,7 +15,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Jun. 2025]</b> My first author paper "ToSA: Token Merging with Spatial Awareness" is accepted by IROS 2025.</li>
+  <li> <b>[Jun. 2025]</b> My first author paper <a href="https://arxiv.org/abs/2506.20066">"ToSA: Token Merging with Spatial Awareness"</a> is accepted by IROS 2025.</li>
 
   <li> <b>[Jun. 2025]</b> Started my internship at Amazon CoRo Visual Perception Team.</li>
 
@@ -23,7 +23,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[May. 2025]</b> Two first author papers accepted by CVPR 2025 <a href="https://3d-llm-vla.github.io/">3D LLM/VLA  Workshop</a>.</li>
 
-  <li> <b>[Feb. 2025]</b> My first author paper <a href="https://www.amazon.science/publications/zero-shot-3d-question-answering-via-voxel-based-dynamic-token-compression">"Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression"</a> is accepted by CVPR 2025.</li>
+  <li> <b>[Feb. 2025]</b> My first author paper <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Zero-shot_3D_Question_Answering_via_Voxel-based_Dynamic_Token_Compression_CVPR_2025_paper.html">"Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression"</a> is accepted by CVPR 2025.</li>
 
   <li> <b>[Dec. 2024]</b> Our team won the 2nd place of <a href="https://sites.google.com/unitn.it/cv4ws-wacv2025/skitb-challenge?authuser=0">2025 SkiTB Visual Tracking Challenge</a>, in conjunction with WACV 2025.</li>
 
