@@ -15,7 +15,11 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Jun. 2025]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2025 ICCV AI City Challenge</a> Track 3: Warehouse Spatial Question Answering!</li>
+
   <li> <b>[Jun. 2025]</b> My first author paper <a href="https://arxiv.org/abs/2506.20066">"ToSA: Token Merging with Spatial Awareness"</a> is accepted by IROS 2025.</li>
+
+  <li> <b>[Jun. 2025]</b> One paper accepted by ICCV.</li>
 
   <li> <b>[Jun. 2025]</b> Started my internship at Amazon CoRo Visual Perception Team.</li>
 
