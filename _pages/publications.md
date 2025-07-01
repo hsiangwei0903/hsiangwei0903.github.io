@@ -12,7 +12,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <p>
 <img src="https://hsiangwei0903.github.io/images/spatialagent.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Warehouse Spatial Question Answering with LLM Agent</b><br> 
-<i> International Conference on Computer Vision Workshop (ICCVW)</i>, 2025.<br>
+<i> In submission</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Pyongkun Kim, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
 <!-- [<a href="https://arxiv.org/abs/2506.20066">Paper</a>] -->
 [<a href="https://github.com/hsiangwei0903/SpatialAgent">Code</a>]
