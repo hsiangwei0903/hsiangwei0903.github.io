@@ -12,7 +12,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <p>
 <img src="https://hsiangwei0903.github.io/images/spatialagent.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>Warehouse Spatial Question Answering with LLM Agent</b><br> 
-<i>ICCV AI City Challenge Workshop</i>, 2025.<br>
+<i>ICCV AI City Challenge Workshop (1st Place Solution of AI City Challenge Track 3)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Pyongkun Kim, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
 [<a href="https://hsiangwei0903.github.io/files/ICCV_2025_AI_City.pdf">Paper</a>]
 [<a href="https://github.com/hsiangwei0903/SpatialAgent">Code</a>]
@@ -22,7 +22,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <p>
 <img src="https://hsiangwei0903.github.io/images/tosa.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>ToSA: Token Merging with Spatial Awareness</b><br> 
-<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>, 2025.<br>
+<i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Oral</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Wenhao Chai, Kuang-Ming Chen, Cheng-Yen Yang, and Jenq-Neng Hwang.<br>
 [<a href="https://arxiv.org/abs/2506.20066">Paper</a>]
 <br clear="left">
@@ -40,7 +40,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <p>
 <img src="https://hsiangwei0903.github.io/images/mambamot.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>MambaMOT: State-Space Model as Motion Predictor for Multi-Object Tracking</b><br> 
-<i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>, 2025.<br>
+<i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP) Oral</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/10890199">Paper</a>]
 <br clear="left">
