@@ -80,9 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name: |
-    Hsiang-Wei Huang
-    黃祥瑋
+  name:
+    Hsiang-Wei Huang    黃祥瑋
   avatar           : "profile.jpeg"
   bio              : "PhD candidate, Department of Electrical and Computer Engineering, University of Washington."
   location         : "Seattle, WA"
