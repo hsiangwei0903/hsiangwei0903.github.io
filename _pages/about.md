@@ -15,6 +15,8 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Oct. 2024]</b> Gave a talk at National Yang Ming Chiao Tung University (NYCU), College of Artificial Intelligence with topic "Spatial Intelligence and 3D Scene Understanding".</li>
+
   <li> <b>[Jun. 2025]</b> My first author paper <a href="https://arxiv.org/abs/2507.10778">"Warehouse Spatial Question Answering with LLM Agent"</a> is accepted by ICCV AI City Challenge Workshop.</li>
 
   <li> <b>[Jun. 2025]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2025 ICCV AI City Challenge</a> Track 3: Warehouse Spatial Question Answering!</li>
