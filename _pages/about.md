@@ -15,7 +15,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Dec. 2025]</b> SAMURAI<a href="https://yangchris11.github.io/samurai/"></a> is accepted by IEEE Transactions on Image Processing!</li>
+  <li> <b>[Dec. 2025]</b> <a href="https://yangchris11.github.io/samurai/">SAMURAI</a> is accepted by IEEE Transactions on Image Processing!</li>
 
   <li> <b>[Oct. 2025]</b> Gave a talk at National Yang Ming Chiao Tung University (NYCU), College of Artificial Intelligence with topic "Spatial Intelligence and 3D Scene Understanding".</li>
 
