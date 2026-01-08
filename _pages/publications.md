@@ -14,7 +14,8 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <b>Warehouse Spatial Question Answering with LLM Agent</b><br> 
 <i>ICCV AI City Challenge Workshop (1st Place Solution of AI City Challenge Track 3)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Pyongkun Kim, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
-[<a href="https://arxiv.org/abs/2507.10778">Paper</a>]
+[<a href="https://arxiv.org/abs/2507.10778">ArXiv</a>]
+[<a href="https://openaccess.thecvf.com/content/ICCV2025W/AICity/papers/Huang_Warehouse_Spatial_Question_Answering_with_LLM_Agent_1st_Place_Solution_ICCVW_2025_paper.pdf">Paper</a>]
 [<a href="https://github.com/hsiangwei0903/SpatialAgent">Code</a>]
 <br clear="left">
 </p>
@@ -24,7 +25,8 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <b>ToSA: Token Merging with Spatial Awareness</b><br> 
 <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) Oral</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Wenhao Chai, Kuang-Ming Chen, Cheng-Yen Yang, and Jenq-Neng Hwang.<br>
-[<a href="https://arxiv.org/abs/2506.20066">Paper</a>]
+[<a href="https://arxiv.org/abs/2506.20066">ArXiv</a>]
+[<a href="https://ieeexplore.ieee.org/document/11245824">Paper</a>]
 [<a href="https://github.com/hsiangwei0903/ToSA">Code</a>]
 <br clear="left">
 </p>
@@ -84,7 +86,7 @@ Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <b>Hsiang-Wei Huang</b
 <p>
 <img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>SAMURAI: Adapting SAM 2 for Visual Object Tracking with Motion Cues</b><br> 
-<i>Under Review</i>, 2024.<br>
+<i>IEEE Transactions on Image Processing (TIP)</i>, 2024.<br>
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
 [<a href="https://arxiv.org/abs/2411.11922">Paper</a>]
 [<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
