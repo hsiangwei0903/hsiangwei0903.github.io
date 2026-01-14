@@ -17,7 +17,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Dec. 2025]</b> <a href="https://yangchris11.github.io/samurai/">SAMURAI</a> is accepted by IEEE Transactions on Image Processing!</li>
 
-  <li> <b>[Oct. 2025]</b> Gave a talk at National Yang Ming Chiao Tung University (NYCU), College of Artificial Intelligence with topic "Spatial Intelligence and 3D Scene Understanding".</li>
+  <li> <b>[Oct. 2025]</b> Invited talk at National Yang Ming Chiao Tung University (NYCU), College of Artificial Intelligence with topic "Spatial Intelligence and 3D Scene Understanding".</li>
 
   <li> <b>[Jun. 2025]</b> My first author paper <a href="https://arxiv.org/abs/2507.10778">"Warehouse Spatial Question Answering with LLM Agent"</a> is accepted by ICCV AI City Challenge Workshop.</li>
 
@@ -53,7 +53,7 @@ Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jen
 
   <li> <b>[Apr. 2024]</b> Our paper "Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check" is accepted by 2024 IEEE Intelligent Vehicles Symposium.</li>
 
-  <li> <b>[Apr. 2024]</b> Gave a talk at National Chiayi University (NCYU) with topic "Deep Learning in Video Understanding: Applications, Challenges and Trend".</li>
+  <li> <b>[Apr. 2024]</b> Invited talk at National Chiayi University (NCYU) with topic "Deep Learning in Video Understanding: Applications, Challenges and Trend".</li>
 
   <li> <b>[Jan. 2024]</b> Our paper "A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Videos" is accepted by IEEE ICASSP 2024.</li>
 
