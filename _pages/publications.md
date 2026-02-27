@@ -85,10 +85,10 @@ Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <b>Hsiang-Wei Huang</b
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
-<b>SAMURAI: Adapting SAM 2 for Visual Object Tracking with Motion Cues</b><br> 
+<b>SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking With SAM 2</b><br> 
 <i>IEEE Transactions on Image Processing (TIP)</i>, 2024.<br>
 Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
-[<a href="https://arxiv.org/abs/2411.11922">Paper</a>]
+[<a href="https://ieeexplore.ieee.org/document/11351313">Paper</a>]
 [<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
 [<a href="https://github.com/yangchris11/samurai">Code</a>]
 [<a href="https://www.youtube.com/watch?v=pHq9eMVdvcA">Youtube</a>]
