@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-I am a PhD candidate studying Electrical and Computer Engineering at the University of Washington - Seattle. I hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
+I am a PhD in Electrical and Computer Engineering from the University of Washington - Seattle, where my dissertation focused on "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space". I also hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
 Currently I am working with <a href="https://people.ece.uw.edu/hwang/">Prof. Jenq-Neng Hwang</a> and the <a href="https://ipl-uw.github.io/">Information Processing Lab</a>, with a strong focus on Spatial Intelligence, 3D Scene Understanding and Multimodal Large Language Models.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[May. 2026]</b> Successfully defended my PhD dissertation "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"!</li>
 
   <li> <b>[Feb. 2026]</b> One main paper and one finding paper accepted by CVPR.</li>
 

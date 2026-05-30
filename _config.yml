@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hsiang-Wei Huang"
 title_separator          : "-"
 name                     : &name "Hsiang-Wei Huang"
-description              : &description "PhD Candidate at University of Washington"
+description              : &description "PhD at University of Washington"
 url                      : https://hsiangwei0903.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsiangwei0903.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name: "Hsiang-Wei Huang<br>黃祥瑋"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate, Department of Electrical and Computer Engineering, University of Washington."
+  bio              : "PhD, Department of Electrical and Computer Engineering, University of Washington."
   location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
