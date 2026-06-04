@@ -15,9 +15,11 @@ I will be joining Amazon as an Applied Scientist in June.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[May. 2026]</b> Successfully defended my PhD dissertation "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"!</li>
+  <li> <b>[Jun. 2026]</b> Successfully defended my PhD dissertation "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</li>
 
-  <li> <b>[Feb. 2026]</b> One main paper and one finding paper accepted by CVPR.</li>
+  <li> <b>[Jun. 2026]</b> Two papers accepted by IEEE MIPR 2026 as oral."</li>
+
+  <li> <b>[Feb. 2026]</b> One main paper and one finding paper accepted by CVPR 2026.</li>
 
   <li> <b>[Dec. 2025]</b> <a href="https://yangchris11.github.io/samurai/">SAMURAI</a> is accepted by IEEE Transactions on Image Processing!</li>
 
@@ -29,7 +31,7 @@ I will be joining Amazon as an Applied Scientist in June.
 
   <li> <b>[Jun. 2025]</b> My first author paper <a href="https://arxiv.org/abs/2506.20066">"ToSA: Token Merging with Spatial Awareness"</a> is accepted by IROS 2025.</li>
 
-  <li> <b>[Jun. 2025]</b> One paper accepted by ICCV.</li>
+  <li> <b>[Jun. 2025]</b> One paper accepted by ICCV 2025.</li>
 
   <li> <b>[Jun. 2025]</b> Started my internship at Amazon CoRo Visual Perception Team.</li>
 
