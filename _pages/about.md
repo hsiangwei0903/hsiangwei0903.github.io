@@ -15,12 +15,12 @@ I will be joining Amazon as an Applied Scientist in June.
 
 <div style="background: linear-gradient(135deg, #f5f0ff, #ede7f6); border-left: 4px solid #6a1b9a; border-radius: 4px; padding: 10px 16px; margin-bottom: 14px;">
   <span style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: #6a1b9a; font-weight: 700;">&#128204; Pinned</span><br>
-  <b>[May. 2026]</b> Successfully defended my PhD dissertation <i>"Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</i>!
+  <b>[May. 2026]</b> Successfully defended my PhD dissertation <i>"Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</i>
 </div>
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Jun. 2026]</b> Two papers accepted by IEEE MIPR 2026 as oral."</li>
+  <li> <b>[Jun. 2026]</b> Two papers accepted by IEEE MIPR 2026 as oral.</li>
 
   <!-- <li> <b>[May. 2026]</b> Successfully defended my PhD dissertation "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</li> -->
 
