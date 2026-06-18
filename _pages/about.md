@@ -20,6 +20,8 @@ I will be joining Amazon as an Applied Scientist in June.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Jun. 2026]</b> My first author paper "Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering" is accepted by ECCV 2026.</li>
+
   <li> <b>[Jun. 2026]</b> Two papers accepted by IEEE MIPR 2026 as oral.</li>
 
   <!-- <li> <b>[May. 2026]</b> Successfully defended my PhD dissertation "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</li> -->
