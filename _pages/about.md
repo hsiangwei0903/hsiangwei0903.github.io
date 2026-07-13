@@ -20,7 +20,7 @@ I will be joining Amazon as an Applied Scientist in June.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Jul. 2026]</b> Our paper <a href="https://arxiv.org/abs/2505.01583">"TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action"</a> is accepted by COLM 2026.</li>
+  <li> <b>[Jul. 2026]</b> Our paper <a href="https://andy-cheng.github.io/TEMPURA/">"TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action"</a> is accepted by COLM 2026.</li>
 
   <li> <b>[Jul. 2026]</b> Our paper <a href="https://ieeexplore.ieee.org/document/11599548">"FE-DETRAC: An Infrastructure Fisheye Video Benchmark with Distortion-Aware Hybrid Data Association for Multi-Object Tracking"</a> is accepted by IEEE Internet of Things Journal.</li>
   
