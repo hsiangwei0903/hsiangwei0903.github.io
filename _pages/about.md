@@ -20,7 +20,7 @@ I will be joining Amazon as an Applied Scientist in June.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2507.10778v2">"SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models"</a> receives the IEEE MIPR Best Student Paper Award!</li>
+  <li> <b>[Aug. 2026]</b> My first author paper "SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models"</a> receives the IEEE MIPR Best Student Paper Award!</li>
 
   <li> <b>[Aug. 2026]</b> Our paper "Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy" is accepted by WACV 2027.</li>
 
