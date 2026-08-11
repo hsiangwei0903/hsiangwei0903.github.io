@@ -11,10 +11,10 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/spatialagent.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
-<b>Warehouse Spatial Question Answering with LLM Agent</b><br> 
+<b>SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models</b><br>
 <i>ICCV AI City Challenge Workshop (1st Place Solution of AI City Challenge Track 3)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Pyongkun Kim, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
-[<a href="https://arxiv.org/abs/2507.10778">ArXiv</a>]
+[<a href="https://arxiv.org/abs/2507.10778v2">ArXiv</a>]
 [<a href="https://openaccess.thecvf.com/content/ICCV2025W/AICity/papers/Huang_Warehouse_Spatial_Question_Answering_with_LLM_Agent_1st_Place_Solution_ICCVW_2025_paper.pdf">Paper</a>]
 [<a href="https://github.com/hsiangwei0903/SpatialAgent">Code</a>]
 <br clear="left">
