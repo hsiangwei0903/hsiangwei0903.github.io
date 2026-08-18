@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD in Electrical and Computer Engineering from the University of Washington - Seattle, where my dissertation focused on "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space". I also hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
-I will be joining Amazon as an Applied Scientist in June.
+I am currently an Applied Scientist II in the Amazon Personal Robotics Group.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
