@@ -13,12 +13,11 @@ I am currently an Applied Scientist II at Amazon Fauna Robotics.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
-<div style="background: linear-gradient(135deg, #f5f0ff, #ede7f6); border-left: 4px solid #6a1b9a; border-radius: 4px; padding: 10px 16px; margin-bottom: 14px;">
-  <span style="font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.08em; color: #6a1b9a; font-weight: 700;">&#128204; Pinned</span><br>
-  <b>[May. 2026]</b> Successfully defended my PhD dissertation <i>"Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</i>
-</div>
-
 <ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2605.20165">"CaMo: Camera Motion Grounded Evaluation and Training for Vision-Language Models"</a> is selected for an oral presentation at BMVC 2026!</li>
+
+  <li> <b>[Aug. 2026]</b> I started working at Amazon Fauna Robotics as an Applied Scientist.</li>
 
   <li> <b>[Aug. 2026]</b> My first author paper "SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models" receives the IEEE MIPR Best Student Paper Award!</li>
 
