@@ -15,15 +15,13 @@ I am currently an Applied Scientist II at Amazon Fauna Robotics.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2605.20165">"CaMo: Camera Motion Grounded Evaluation and Training for Vision-Language Models"</a> is selected for an oral presentation at BMVC 2026!</li>
+  <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2605.20165">"Camera Motion Grounded Evaluation and Training for Vision-Language Models"</a> is selected for an oral presentation at BMVC 2026! Our model CaMo-3B achieves state-of-the-art performance on spatial question answering and camera motion understanding. Feel free to try our <a href="https://huggingface.co/hsiangwei0903/CaMo-3B">model</a> and <a href="https://github.com/hsiangwei0903/CaMo">codebase</a>!</li>
 
   <li> <b>[Aug. 2026]</b> I started working at Amazon Fauna Robotics as an Applied Scientist.</li>
 
   <li> <b>[Aug. 2026]</b> My first author paper "SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models" receives the IEEE MIPR Best Student Paper Award!</li>
 
   <li> <b>[Aug. 2026]</b> Our paper "Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy" is accepted by WACV 2027.</li>
-
-  <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2605.20165">"Camera Motion Grounded Evaluation and Training for Vision-Language Models"</a> is accepted by BMVC 2026. Our model CaMo-3B achieves state-of-the-art performance on spatial question answering and camera motion understanding. Feel free to try our <a href="https://huggingface.co/hsiangwei0903/CaMo-3B">model</a> and <a href="https://github.com/hsiangwei0903/CaMo">codebase</a>!</li>
 
   <li> <b>[Jul. 2026]</b> Our paper <a href="https://andy-cheng.github.io/TEMPURA/">"TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action"</a> is accepted by COLM 2026.</li>
 
