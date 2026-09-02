@@ -27,7 +27,7 @@ I am currently an Applied Scientist II at Amazon Fauna Robotics.
 
   <li> <b>[Jul. 2026]</b> Our paper <a href="https://ieeexplore.ieee.org/document/11599548">"FE-DETRAC: An Infrastructure Fisheye Video Benchmark with Distortion-Aware Hybrid Data Association for Multi-Object Tracking"</a> is accepted by IEEE Internet of Things Journal.</li>
   
-  <li> <b>[Jun. 2026]</b> My first author paper "Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering" is accepted by ECCV 2026.</li>
+  <li> <b>[Jun. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2608.18009">"Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering"</a> is accepted by ECCV 2026.</li>
 
   <li> <b>[Jun. 2026]</b> Two papers accepted by IEEE MIPR 2026 as oral.</li>
 
