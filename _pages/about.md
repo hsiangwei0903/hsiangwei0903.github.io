@@ -15,6 +15,8 @@ I am currently an Applied Scientist II at Amazon Fauna Robotics.
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
+  <li> <b>[Oct. 2026]</b> I was selected as an Outstanding Reviewer for CVPR 2026!</li>
+
   <li> <b>[Sep. 2026]</b> Our paper "DiffGround: Semantic Difference-Guided Zero-Shot Video Question Grounding" is accepted by ACCV 2026.</li>
 
   <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2605.20165">"Camera Motion Grounded Evaluation and Training for Vision-Language Models"</a> is selected for an oral presentation at BMVC 2026! Our model CaMo-3B achieves state-of-the-art performance on spatial question answering and camera motion understanding. Feel free to try our <a href="https://huggingface.co/hsiangwei0903/CaMo-3B">model</a> and <a href="https://github.com/hsiangwei0903/CaMo">codebase</a>!</li>
