@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-I am a PhD in Electrical and Computer Engineering from the University of Washington - Seattle, where my dissertation focused on "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space". I also hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
-
-I am currently an Applied Scientist II at Amazon Fauna Robotics.
+I am currently an Applied Scientist II at Amazon Fauna Robotics. I received my PhD in Electrical and Computer Engineering from the University of Washington - Seattle in 2026, where my dissertation focused on "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space". I also hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
   <li> <b>[Oct. 2026]</b> I was selected as an Outstanding Reviewer for CVPR 2026!</li>
+
+  <li> <b>[Sep. 2026]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2026 ECCV AI City Challenge</a> in Egocentric Dashcam Pedestrian Intent Visual Question Answering!</li>
 
   <li> <b>[Sep. 2026]</b> Our paper "DiffGround: Semantic Difference-Guided Zero-Shot Video Question Grounding" is accepted by ACCV 2026.</li>
 
@@ -33,7 +33,7 @@ I am currently an Applied Scientist II at Amazon Fauna Robotics.
   
   <li> <b>[Jun. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2608.18009">"Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering"</a> is accepted by ECCV 2026.</li>
 
-  <li> <b>[Jun. 2026]</b> Two papers accepted by IEEE MIPR 2026 as oral.</li>
+  <li> <b>[Jun. 2026]</b> One paper accepted by IEEE MIPR 2026 as oral.</li>
 
   <li> <b>[May. 2026]</b> Successfully defended my PhD dissertation "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space"</li>
 
