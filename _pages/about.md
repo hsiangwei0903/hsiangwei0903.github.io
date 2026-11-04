@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html 
 ---
-I am currently an Applied Scientist II at Amazon Fauna Robotics. I received my PhD in Electrical and Computer Engineering from the University of Washington - Seattle in 2026, where my dissertation focused on "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space". I also hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
+I am currently an Applied Scientist II at <a href="https://faunarobotics.com/">Amazon Fauna Robotics</a>. I received my PhD in Electrical and Computer Engineering from the University of Washington - Seattle in 2026, where my dissertation focused on "Building Multimodal AI Systems for Perceiving and Reasoning in 3D Space". I also hold a Master of Science degree in Electrical and Computer Engineering from the University of Washington, and a Bachelor degree from the National Chiao Tung University in Taiwan.
 
 ## <i class="fa fa-fw fa-rss "></i> News ##
 
@@ -17,15 +17,15 @@ I am currently an Applied Scientist II at Amazon Fauna Robotics. I received my P
 
   <li> <b>[Sep. 2026]</b> Our team won the 1st place of <a href="https://www.aicitychallenge.org/">2026 ECCV AI City Challenge</a> in Egocentric Dashcam Pedestrian Intent Visual Question Answering!</li>
 
-  <li> <b>[Sep. 2026]</b> Our paper "DiffGround: Semantic Difference-Guided Zero-Shot Video Question Grounding" is accepted by ACCV 2026.</li>
+  <li> <b>[Sep. 2026]</b> Our paper <a href="https://arxiv.org/abs/2610.25570">"DiffGround: Semantic Difference-Guided Zero-Shot Video Question Grounding"</a> is accepted by ACCV 2026.</li>
 
   <li> <b>[Aug. 2026]</b> My first author paper <a href="https://arxiv.org/abs/2605.20165">"Camera Motion Grounded Evaluation and Training for Vision-Language Models"</a> is selected for an oral presentation at BMVC 2026! Our model CaMo-3B achieves state-of-the-art performance on spatial question answering and camera motion understanding. Feel free to try our <a href="https://huggingface.co/hsiangwei0903/CaMo-3B">model</a> and <a href="https://github.com/hsiangwei0903/CaMo">codebase</a>!</li>
 
-  <li> <b>[Aug. 2026]</b> I started working at Amazon Fauna Robotics as an Applied Scientist.</li>
+  <li> <b>[Aug. 2026]</b> I started working at <a href="https://faunarobotics.com/">Amazon Fauna Robotics</a> as an Applied Scientist.</li>
 
-  <li> <b>[Aug. 2026]</b> My first author paper "SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models" receives the IEEE MIPR Best Student Paper Award!</li>
+  <li> <b>[Aug. 2026]</b> My first author paper <a href="https://ieeexplore.ieee.org/abstract/document/11716300/">"SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models"</a> receives the IEEE MIPR Best Student Paper Award!</li>
 
-  <li> <b>[Aug. 2026]</b> Our paper "Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy" is accepted by WACV 2027.</li>
+  <li> <b>[Aug. 2026]</b> Our paper <a href="https://arxiv.org/abs/2610.38830">"Beyond Region Memory: Local Point Tracking for Vocal Cord Localization in Video Laryngoscopy"</a> is accepted by WACV 2027.</li>
 
   <li> <b>[Jul. 2026]</b> Our paper <a href="https://andy-cheng.github.io/TEMPURA/">"TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action"</a> is accepted by COLM 2026.</li>
 
