@@ -10,8 +10,99 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <!-- # <i class="fa fa-fw fa-copy"></i> Publications -->
 
 <p>
-<img src="https://hsiangwei0903.github.io/images/spatialagent.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<img src="https://hsiangwei0903.github.io/images/camo.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>CaMo: Camera Motion Grounded Evaluation and Training for Vision-Language Models</b><br>
+<i>British Machine Vision Conference (BMVC) Oral</i>, 2026.<br>
+<b>Hsiang-Wei Huang</b>, Junbin Lu, Kuang-Ming Chen, Jianxu Shangguan, Cheng-Yen Yang, and Jenq-Neng Hwang.<br>
+[<a href="https://arxiv.org/abs/2605.20165">ArXiv</a>]
+[<a href="https://github.com/hsiangwei0903/CaMo">Code</a>]
+[<a href="https://huggingface.co/hsiangwei0903/CaMo-3B">Model</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/memtree3d.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering</b><br>
+<i>European Conference on Computer Vision (ECCV)</i>, 2026.<br>
+<b>Hsiang-Wei Huang</b>, Fu-Chen Chen, Li-Wu Tsao, Cheng-Han Lee, Che-Chun Su, Lu Xia, Ronghui Peng, Jenq-Neng Hwang, Min Sun, and Cheng-Hao Kuo.<br>
+[<a href="https://arxiv.org/abs/2608.18009">ArXiv</a>]
+[<a href="https://link.springer.com/chapter/10.1007/978-3-032-37490-5_19">Paper</a>]
+[<a href="https://github.com/hsiangwei0903/MemTree3D">Code</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/spatialagent_mipr.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models</b><br>
+<i>IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), Best Student Paper Award</i>, 2026.<br>
+<b>Hsiang-Wei Huang</b>, Junbin Lu, Pyongkun Kim, Jianxu Shangguan, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/11716300/">Paper</a>]
+[<a href="https://github.com/hsiangwei0903/SpatialAgent">Code</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/diffground.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>DiffGround: Semantic Difference-Guided Zero-Shot Video Question Grounding</b><br>
+<i>Asian Conference on Computer Vision (ACCV)</i>, 2026.<br>
+Cheng-Han Lee, Amir Salimi, <b>Hsiang-Wei Huang</b>, Che-Chun Su, Min Sun, and Cheng-Hao Kuo.<br>
+[<a href="https://arxiv.org/abs/2610.25570">ArXiv</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/unitraffic.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>UniTraffic: Evidence-Centric Agentic Video Reasoning Across Traffic Anomalies, Violations, and Intent</b><br>
+<i>ECCV AI City Challenge Workshop (1st Place on AI City Challenge 2026 Track 3 FETV and PSI-VQA Evaluations)</i>, 2026.<br>
+Jianxu Shangguan, Sangwon Kim, <b>Hsiang-Wei Huang</b>, Wei-Chieh Sun, Junbin Lu, Pyongkun Kim, Kwang-Ju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
+[<a href="https://github.com/jxb1st/aicity2026-track3-7-8">Code</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/clep.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>CLEP: Contrastive Language-Pose Pretraining</b><br>
+<i>Computer Vision and Pattern Recognition (CVPR)</i>, 2026.<br>
+Sen Jia, Huayu Wang, <b>Hsiang-Wei Huang</b>, Zhaochong An, Jenq-Neng Hwang, Huaping Zhang, and Lei Li.<br>
+[<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Jia_CLEP_Contrastive_Language-Pose_Pretraining_CVPR_2026_paper.pdf">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/samurai_mot.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>Extending Segment Anything Model 2 to Multi-Object Tracking by Optimizing Hierarchical Trajectory Memory</b><br>
+<i>Computer Vision and Pattern Recognition (CVPR) Findings</i>, 2026.<br>
+Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Kuang-Ming Chen, Kunjun Li, and Jenq-Neng Hwang.<br>
+[<a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Yang_Extending_Segment_Anything_Model_2_to_Multi-Object_Tracking_by_Optimizing_CVPRF_2026_paper.pdf">Paper</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/leflow.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>LeFlow: Generative Latent Flow Planning for World Models</b><br>
+<i>ArXiv</i>, 2026.<br>
+<b>Hsiang-Wei Huang</b>, Jianxu Shangguan, Junbin Lu, and Jenq-Neng Hwang.<br>
+[<a href="https://arxiv.org/abs/2608.24855">ArXiv</a>]
+[<a href="https://hsiangwei0903.github.io/LeFlow-website/">Project Page</a>]
+[<a href="https://github.com/hsiangwei0903/LeFlow">Code</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking With SAM 2</b><br> 
+<i>IEEE Transactions on Image Processing (TIP)</i>, 2026.<br>
+Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
+[<a href="https://ieeexplore.ieee.org/document/11351313">Paper</a>]
+[<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
+[<a href="https://github.com/yangchris11/samurai">Code</a>]
+[<a href="https://www.youtube.com/watch?v=pHq9eMVdvcA">Youtube</a>]
+<br clear="left">
+</p>
+
+<p>
+<img src="https://hsiangwei0903.github.io/images/spatialagent.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
+<b>Warehouse Spatial Question Answering with LLM Agent</b><br>
 <i>ICCV AI City Challenge Workshop (1st Place Solution of AI City Challenge Track 3)</i>, 2025.<br>
 <b>Hsiang-Wei Huang</b>, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Pyongkun Kim, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
 [<a href="https://arxiv.org/abs/2507.10778v2">ArXiv</a>]
@@ -82,18 +173,6 @@ Zhongyu Jiang, Wenhao Chai, Zhuoran Zhou, Cheng-Yen Yang, <b>Hsiang-Wei Huang</b
 <br clear="left">
 </p> -->
 
-
-<p>
-<img src="https://hsiangwei0903.github.io/images/samurai.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
-<b>SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking With SAM 2</b><br> 
-<i>IEEE Transactions on Image Processing (TIP)</i>, 2024.<br>
-Cheng-Yen Yang, <b>Hsiang-Wei Huang</b>, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br>
-[<a href="https://ieeexplore.ieee.org/document/11351313">Paper</a>]
-[<a href="https://yangchris11.github.io/samurai/">Project Page</a>]
-[<a href="https://github.com/yangchris11/samurai">Code</a>]
-[<a href="https://www.youtube.com/watch?v=pHq9eMVdvcA">Youtube</a>]
-<br clear="left">
-</p>
 
 <p>
 <img src="https://hsiangwei0903.github.io/images/gta.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
