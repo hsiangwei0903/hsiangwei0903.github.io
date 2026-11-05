@@ -35,7 +35,7 @@ To view all my publications, please refer to <a href="https://scholar.google.com
 <img src="https://hsiangwei0903.github.io/images/spatialagent_mipr.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>SpatialAgent: Spatial Question Answering with LLM Agent and Perception Models</b><br>
 <i>IEEE MIPR (Best Student Paper Award)</i>, 2026.<br>
-<b>Hsiang-Wei Huang</b>, Junbin Lu, Pyongkun Kim, Jianxu Shangguan, Jen-Hao Cheng, Kuang-Ming Chen, Cheng-Yen Yang, Bahaa Alattar, Yi-Ru Lin, Sangwon Kim, Kwangju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
+<b>Hsiang-Wei Huang</b>, Junbin Lu, Pyongkun Kim, Jianxu Shangguan, Jen-Hao Cheng, Kuang-Ming Chen, et al.<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/11716300/">Paper</a>]
 [<a href="https://github.com/hsiangwei0903/SpatialAgent">Code</a>]
 <br clear="left">
@@ -53,8 +53,8 @@ Cheng-Han Lee, Amir Salimi, <b>Hsiang-Wei Huang</b>, Che-Chun Su, Min Sun, and C
 <p>
 <img src="https://hsiangwei0903.github.io/images/unitraffic.gif?raw=true" alt="Figure" style="width: 200px; height: 150px; border: 1px solid black;" hspace="20" align="left"/>
 <b>UniTraffic: Evidence-Centric Agentic Video Reasoning Across Traffic Anomalies, Violations, and Intent</b><br>
-<i>ECCV AI City Challenge Workshop (1st Place on FETV and PSI-VQA)</i>, 2026.<br>
-Jianxu Shangguan, Sangwon Kim, <b>Hsiang-Wei Huang</b>, Wei-Chieh Sun, Junbin Lu, Pyongkun Kim, Kwang-Ju Kim, Chung-I Huang, and Jenq-Neng Hwang.<br>
+<i>ECCV AI City Challenge Workshop</i>, 2026.<br>
+Jianxu Shangguan, Sangwon Kim, <b>Hsiang-Wei Huang</b>, Wei-Chieh Sun, Junbin Lu, et al.<br>
 [<a href="https://github.com/jxb1st/aicity2026-track3-7-8">Code</a>]
 <br clear="left">
 </p>
